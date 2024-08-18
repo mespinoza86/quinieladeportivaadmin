@@ -1,0 +1,77 @@
+[
+  [
+    "Jornada1",
+    [
+      {
+        "equipo1": "Santa Ana FC",
+        "marcador1": "0",
+        "equipo2": "Deportivo Saprissa",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Gremio",
+        "marcador1": "0",
+        "equipo2": "Bahia",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "marcador1": "0",
+        "equipo2": "Deportivo San Carlos",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "C.S Cartagines",
+        "marcador1": "",
+        "equipo2": "Club Sport Herediano",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Palmeiras",
+        "marcador1": "",
+        "equipo2": "Sao Paulo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "marcador1": "",
+        "equipo2": "Flamengo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "marcador1": "",
+        "equipo2": "Puntarenas FC",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "",
+        "equipo2": "FC Motagia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC",
+        "marcador1": "",
+        "equipo2": "AD Municipal Liberia",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
+  ]
+]

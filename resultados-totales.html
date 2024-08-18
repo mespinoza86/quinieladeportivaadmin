@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados Totales</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="js/resultados-totales.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Resultados Totales</h1>
+    </header>
+    <main>
+        <button id="calcularResultados">Calcular Resultados</button>
+        <table id="resultadosTotalesTable">
+            <thead>
+                <tr>
+                    <th>Jugador</th>
+                    <!-- Aquí se añadirán dinámicamente las cabeceras de las jornadas -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí se añadirán dinámicamente las filas con los resultados -->
+            </tbody>
+        </table>
+        <br>
+        <button id="volverButton">Volver</button>
+    </main>
+    <footer>
+        <p>&copy; 2024 Tu Empresa</p>
+    </footer>
+    <script>
+        // Redireccionar a la página principal (index.html) al hacer clic en el botón "Volver"
+        document.getElementById('volverButton').addEventListener('click', () => {
+            window.location.href = 'index.html';
+        });
+    </script>
+</body>
+</html>

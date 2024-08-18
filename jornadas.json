@@ -1,0 +1,57 @@
+[
+  [
+    "Jornada1",
+    [
+      {
+        "equipo1": "Santa Ana FC",
+        "equipo2": "Deportivo Saprissa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Gremio",
+        "equipo2": "Bahia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "equipo2": "Deportivo San Carlos",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "equipo2": "Corinthians",
+        "comodin": true
+      },
+      {
+        "equipo1": "C.S Cartagines",
+        "equipo2": "Club Sport Herediano",
+        "comodin": true
+      },
+      {
+        "equipo1": "Palmeiras",
+        "equipo2": "Sao Paulo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Flamengo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "equipo2": "Puntarenas FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "equipo2": "FC Motagia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC",
+        "equipo2": "AD Municipal Liberia",
+        "comodin": false
+      }
+    ]
+  ]
+]
