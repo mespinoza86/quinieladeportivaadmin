@@ -200,6 +200,14 @@ app.get('/api/resultados/:jugador/:jornada', (req, res) => {
     }
 });
 
+// Nuevo endpoint para obtener los resultados de una jornada específica
+app.get('/api/resultados-oficiales/:jornada', (req, res) => {
+    const { jornada } = req.params;
+    const resultadosOficiales = loadResultadosOficiales();
+    const partidos = resultadosOficiales.get(jornada) || [];  // Obtener los partidos de la jornada o un array vacío si no existe
+    res.json({ jornada, partidos });
+});
+
 // Endpoints para resultados oficiales
 app.get('/api/resultados-oficiales', (req, res) => {
     const resultadosOficiales = loadResultadosOficiales();

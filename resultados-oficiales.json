@@ -32,44 +32,44 @@
       },
       {
         "equipo1": "C.S Cartagines",
-        "marcador1": "",
+        "marcador1": "3",
         "equipo2": "Club Sport Herediano",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": true
       },
       {
         "equipo1": "Palmeiras",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Sao Paulo",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Botafogo RJ",
-        "marcador1": "",
+        "marcador1": "4",
         "equipo2": "Flamengo",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Municipal Perez Zeledon",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Puntarenas FC",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "CD Olimpia",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "FC Motagia",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Sporting FC",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "AD Municipal Liberia",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       }
     ]

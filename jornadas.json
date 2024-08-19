@@ -53,5 +53,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada2",
+    [
+      {
+        "equipo1": "Puntarenas FC",
+        "equipo2": "QueposCambute",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "equipo2": "Gremio",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "equipo2": "Deportivo Saprissa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Junior FC",
+        "equipo2": "Colo Colo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "equipo2": "Red Bull Bragantino",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza FC",
+        "equipo2": "LD Alajuelense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Liberia",
+        "equipo2": "Guadalupe",
+        "comodin": false
+      },
+      {
+        "equipo1": "Escorpiones de Belen",
+        "equipo2": "Santa Ana",
+        "comodin": true
+      },
+      {
+        "equipo1": "Fortaleza",
+        "equipo2": "Rosario Central",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "equipo2": "Managua FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Palmeiras",
+        "equipo2": "Botafogo RJ",
+        "comodin": true
+      },
+      {
+        "equipo1": "Lanus",
+        "equipo2": "LDU de Quito",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "equipo2": "San Carlos",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "equipo2": "Diriangen FC",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "equipo2": "Nacional",
+        "comodin": false
+      },
+      {
+        "equipo1": "Belgrano",
+        "equipo2": "Athletico Paranaense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sportivo Ameliano",
+        "equipo2": "Libertad",
+        "comodin": true
+      },
+      {
+        "equipo1": "San Francisco FC",
+        "equipo2": "Club Sport Herediano",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bolivar",
+        "equipo2": "Flamengo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "equipo2": "Boca Juniors",
+        "comodin": false
+      }
+    ]
   ]
 ]

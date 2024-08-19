@@ -13,15 +13,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     addResultadosOficialesButton.addEventListener('click', () => {
         const jornada = jornadaSelect.value;
-        fetch(`/api/jornadas`)
+        fetch(`/api/resultados-oficiales/${jornada}`)
             .then(response => response.json())
-            .then(jornadas => {
-                const partidos = jornadas.find(([nombre]) => nombre === jornada)[1];
+            .then(data => {
+                const partidos = data.partidos;
                 partidosContainer.innerHTML = partidos.map((partido, index) => `
                     <div class="partido" data-comodin="${partido.comodin}">
                         <span>${partido.equipo1} vs ${partido.equipo2}</span>
-                        <input type="number" data-index="${index}" placeholder="Marcador ${partido.equipo1}" />
-                        <input type="number" data-index="${index}" placeholder="Marcador ${partido.equipo2}" />
+                        <input type="number" data-index="${index}" placeholder="Marcador ${partido.equipo1}" value="${partido.marcador1 || ''}" />
+                        <input type="number" data-index="${index}" placeholder="Marcador ${partido.equipo2}" value="${partido.marcador2 || ''}" />
                     </div>
                 `).join('');
             });
