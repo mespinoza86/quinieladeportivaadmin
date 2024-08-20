@@ -73,5 +73,150 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada2",
+    [
+      {
+        "equipo1": "Puntarenas FC",
+        "marcador1": "",
+        "equipo2": "QueposCambute",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "marcador1": "",
+        "equipo2": "Gremio",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "marcador1": "",
+        "equipo2": "Deportivo Saprissa",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Junior FC",
+        "marcador1": "",
+        "equipo2": "Colo Colo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "marcador1": "",
+        "equipo2": "Red Bull Bragantino",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza FC",
+        "marcador1": "",
+        "equipo2": "LD Alajuelense",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Liberia",
+        "marcador1": "",
+        "equipo2": "Guadalupe",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Escorpiones de Belen",
+        "marcador1": "",
+        "equipo2": "Santa Ana",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Fortaleza",
+        "marcador1": "",
+        "equipo2": "Rosario Central",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "",
+        "equipo2": "Managua FC",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Palmeiras",
+        "marcador1": "",
+        "equipo2": "Botafogo RJ",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Lanus",
+        "marcador1": "",
+        "equipo2": "LDU de Quito",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "marcador1": "",
+        "equipo2": "San Carlos",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "",
+        "equipo2": "Diriangen FC",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "",
+        "equipo2": "Nacional",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Belgrano",
+        "marcador1": "",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sportivo Ameliano",
+        "marcador1": "",
+        "equipo2": "Libertad",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "San Francisco FC",
+        "marcador1": "",
+        "equipo2": "Club Sport Herediano",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bolivar",
+        "marcador1": "",
+        "equipo2": "Flamengo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "",
+        "equipo2": "Boca Juniors",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
   ]
 ]

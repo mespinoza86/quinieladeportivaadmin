@@ -204,9 +204,34 @@ app.get('/api/resultados/:jugador/:jornada', (req, res) => {
 app.get('/api/resultados-oficiales/:jornada', (req, res) => {
     const { jornada } = req.params;
     const resultadosOficiales = loadResultadosOficiales();
-    const partidos = resultadosOficiales.get(jornada) || [];  // Obtener los partidos de la jornada o un array vacío si no existe
-    res.json({ jornada, partidos });
+    const jornadasMap = loadJornadas();
+
+    // Convertir el Map a un array para utilizar find
+    const jornadas = Array.from(jornadasMap.entries());
+
+    const partidosJornada = jornadas.find(([nombre]) => nombre === jornada);
+    
+    if (!partidosJornada) {
+        return res.status(404).json({ error: 'Jornada no encontrada' });
+    }
+
+    const partidos = partidosJornada[1];
+    const resultadosExistentes = resultadosOficiales.get(jornada) || [];
+
+    const partidosConResultados = partidos.map(partido => {
+        const resultado = resultadosExistentes.find(r => r.equipo1 === partido.equipo1 && r.equipo2 === partido.equipo2);
+        return {
+            equipo1: partido.equipo1,
+            equipo2: partido.equipo2,
+            marcador1: resultado ? resultado.marcador1 : '',
+            marcador2: resultado ? resultado.marcador2 : '',
+            comodin: partido.comodin
+        };
+    });
+
+    res.json({ jornada, partidos: partidosConResultados });
 });
+
 
 // Endpoints para resultados oficiales
 app.get('/api/resultados-oficiales', (req, res) => {
@@ -290,8 +315,117 @@ app.get('/api/resultados-totales', (req, res) => {
             resultadosTotales[jugador][jornadaId] = puntosJornada;  // Guardar puntos por jornada
             totalPuntos += puntosJornada;
         });
+        
+        //Solo por ahora para ponerme al dia con la tabla general
+        switch (jugador) {
+            case 'Bryan Arias':
+                totalPuntos += 242;
+                break;
+
+            case 'Tete':
+                totalPuntos += 224;
+                break;                
+
+            case 'Quittis':
+                totalPuntos += 223;
+                break;                  
+
+            case 'DC':
+                totalPuntos += 220;
+                break;  
+
+            case 'Juan Soto':
+                totalPuntos += 206;
+                break;  
+                
+            case 'Orlando':
+                totalPuntos += 219;
+                break;  
+                
+            case 'Jeicros':
+                totalPuntos += 213;
+                break;                  
+
+            case 'Pin':
+                totalPuntos += 209;
+                break;  
+
+            case 'Mark':
+                totalPuntos += 206;
+                break;                  
+
+            case 'Hector Espinoza':
+                totalPuntos += 202;
+                break;                  
+
+            case 'Napoleon':
+                totalPuntos += 201;
+                break;  
+
+            case 'Steven Ramirez':
+                totalPuntos += 198;
+                break;  
+
+            case 'Luis Valenciano':
+                totalPuntos += 198;
+                break;  
+
+            case 'Maria Chinchilla':
+                totalPuntos += 197;
+                break;  
+
+            case 'Alex Mata': 
+                totalPuntos += 197;
+                break;                  
+
+
+            case 'Noel Hernandez':
+                totalPuntos += 197;
+                break;                  
+
+            case 'Milton':
+                totalPuntos += 194;
+                break;                  
+
+            case 'Cerritos':
+                totalPuntos += 193;
+                break;  
+
+            case 'Pablo Espinoza':
+                totalPuntos += 192;
+                break;  
+
+            case 'Ricardo Solis Nunez':
+                totalPuntos += 184;
+                break;  
+
+            case 'Esteban Villalta': //Aqui va Chogui
+                totalPuntos += 183;
+                break;  
+
+            case 'Marco Espinoza':
+                totalPuntos += 178;
+                break;                  
+
+            case 'Jordi':
+                totalPuntos += 164;
+                break;   
+
+            case 'Keylor Gonzalez':
+                totalPuntos += 164;
+                break;                   
+
+            case 'JorgeMarioGamboa':
+                totalPuntos += 139;
+                break;                   
+
+            default:
+                break;
+        }
 
         resultadosTotales[jugador].total = totalPuntos;  // Guardar total de puntos
+
+
     });
 
     res.json(resultadosTotales);
