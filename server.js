@@ -294,20 +294,28 @@ app.get('/api/resultados-totales', (req, res) => {
                     const resultadoOficialEquipo1 = determinarResultado(marcador1Oficial, marcador2Oficial);
                     const resultadoPronosticoEquipo1 = determinarResultado(marcador1Pronostico, marcador2Pronostico);
 
-                    if (resultadoOficialEquipo1 === resultadoPronosticoEquipo1 && marcador1Pronostico !== null && marcador2Pronostico !== null && marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == false) {
-                        puntosJornada += 3; // 3 puntos por acertar el resultado (ganó, empató, perdió)
+                    if (resultadoOficialEquipo1 === resultadoPronosticoEquipo1 && marcador1Pronostico !== "" && marcador2Pronostico !== ""){
+                        if(marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == false) {
+                            puntosJornada += 3; // 3 puntos por acertar el resultado (ganó, empató, perdió)
+                        }
                     }
 
-                    if (resultadoOficialEquipo1 === resultadoPronosticoEquipo1 && marcador1Pronostico !== null && marcador2Pronostico !== null && marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == true) {
-                        puntosJornada += 4; // 3 puntos por acertar el resultado (ganó, empató, perdió)
+                    if (resultadoOficialEquipo1 === resultadoPronosticoEquipo1 && marcador1Pronostico !== "" && marcador2Pronostico !== ""){
+                        if(marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == true) {
+                            puntosJornada += 4; // 3 puntos por acertar el resultado (ganó, empató, perdió)
+                        }
                     }
 
-                    if (marcador1Oficial === marcador1Pronostico && marcador2Oficial === marcador2Pronostico && marcador1Pronostico !== null && marcador1Oficial !== "" && marcador2Oficial !== "" && marcador2Pronostico !== null && fechacomodin == false) {
-                        puntosJornada += 2; // 2 puntos por acertar el marcador exacto
+                    if (marcador1Oficial === marcador1Pronostico && marcador2Oficial === marcador2Pronostico && marcador1Pronostico !== "" && marcador2Pronostico !== ""){
+                        if(marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == false) {
+                            puntosJornada += 2; // 2 puntos por acertar el marcador exacto
+                        }
                     }
 
-                    if (marcador1Oficial === marcador1Pronostico && marcador2Oficial === marcador2Pronostico && marcador1Pronostico !== null && marcador2Pronostico !== null && marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == true) {
-                        puntosJornada += 3; // 2 puntos por acertar el marcador exacto
+                    if (marcador1Oficial === marcador1Pronostico && marcador2Oficial === marcador2Pronostico && marcador1Pronostico !== "" && marcador2Pronostico !== ""){
+                        if(marcador1Oficial !== "" && marcador2Oficial !== "" && fechacomodin == true) {
+                            puntosJornada += 3; // 2 puntos por acertar el marcador exacto
+                        }
                     }
                 }
             });
