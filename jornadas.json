@@ -158,5 +158,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada3",
+    [
+      {
+        "equipo1": "Aston Villa",
+        "equipo2": "Arsenal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Junior",
+        "equipo2": "Huracan",
+        "comodin": false
+      },
+      {
+        "equipo1": "Getafe",
+        "equipo2": "Rayo Vallecano",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Marathon",
+        "equipo2": "Real Espana",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "equipo2": "Santos de Guapiles",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres",
+        "equipo2": "Chivas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo San Carlos",
+        "equipo2": "LD Alajuelense",
+        "comodin": true
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "equipo2": "C.S. Cartagines",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Lorenzo",
+        "equipo2": "Talleres",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bahia",
+        "equipo2": "Botafogo RJ",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fortaleza",
+        "equipo2": "Corinthians",
+        "comodin": false
+      },
+      {
+        "equipo1": "Racing Club",
+        "equipo2": "Independiente",
+        "comodin": true
+      },
+      {
+        "equipo1": "Philadelphia",
+        "equipo2": "Colorado",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "equipo2": "Municipal Perez Zeledon",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC",
+        "equipo2": "Santa Ana FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Internacional",
+        "equipo2": "Cruzeiro",
+        "comodin": true
+      },
+      {
+        "equipo1": "Flamengo",
+        "equipo2": "Red Bull Bragantino",
+        "comodin": false
+      },
+      {
+        "equipo1": "Columbus",
+        "equipo2": "LAFC",
+        "comodin": false
+      },
+      {
+        "equipo1": "River Plate",
+        "equipo2": "Newell's Old Boys",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "equipo2": "Sporting FC",
+        "comodin": false
+      }
+    ]
   ]
 ]
