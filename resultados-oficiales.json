@@ -218,5 +218,150 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada3",
+    [
+      {
+        "equipo1": "Aston Villa",
+        "marcador1": "0",
+        "equipo2": "Arsenal",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Junior",
+        "marcador1": "0",
+        "equipo2": "Huracan",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Getafe",
+        "marcador1": "0",
+        "equipo2": "Rayo Vallecano",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "0",
+        "equipo2": "Real Espana",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "",
+        "equipo2": "Santos de Guapiles",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres",
+        "marcador1": "1",
+        "equipo2": "Chivas",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo San Carlos",
+        "marcador1": "0",
+        "equipo2": "LD Alajuelense",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "1",
+        "equipo2": "C.S. Cartagines",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Lorenzo",
+        "marcador1": "",
+        "equipo2": "Talleres",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "",
+        "equipo2": "Botafogo RJ",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fortaleza",
+        "marcador1": "",
+        "equipo2": "Corinthians",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Racing Club",
+        "marcador1": "",
+        "equipo2": "Independiente",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Philadelphia",
+        "marcador1": "",
+        "equipo2": "Colorado",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "marcador1": "",
+        "equipo2": "Municipal Perez Zeledon",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC",
+        "marcador1": "",
+        "equipo2": "Santa Ana FC",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Internacional",
+        "marcador1": "",
+        "equipo2": "Cruzeiro",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Flamengo",
+        "marcador1": "",
+        "equipo2": "Red Bull Bragantino",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Columbus",
+        "marcador1": "",
+        "equipo2": "LAFC",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "River Plate",
+        "marcador1": "",
+        "equipo2": "Newell's Old Boys",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "",
+        "equipo2": "Sporting FC",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
   ]
 ]
