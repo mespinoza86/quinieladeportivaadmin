@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const calcularButton = document.querySelector('#calcularResultados');
 
     calcularButton.addEventListener('click', () => {
-        console.log("jugador en este momento = " )
+        console.log("Calculando resultados...");
         fetch('/api/resultados-totales')
             .then(response => response.json())
             .then(resultados => {
@@ -59,7 +59,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     tableBody.appendChild(row);
                 });
-            });
+            })
+            .catch(error => console.error('Error al obtener resultados:', error));
     });
 });
 
