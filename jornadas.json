@@ -263,5 +263,90 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "equipo2": "Alianza FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "equipo2": "Comunicaciones FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "equipo2": "CD Cacahuatique",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "equipo2": "Internacional",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "equipo2": "Santa Fe",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "equipo2": "San Francisco FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "equipo2": "Independiente",
+        "comodin": true
+      },
+      {
+        "equipo1": "Bahia",
+        "equipo2": "Flamengo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "equipo2": "Atletico MG",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "equipo2": "FC Motagua",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "equipo2": "Real Esteli FC",
+        "comodin": true
+      },
+      {
+        "equipo1": "Juventude",
+        "equipo2": "Corinthians",
+        "comodin": false
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "equipo2": "Athletico Paranaense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "equipo2": "CD Aguila",
+        "comodin": true
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "equipo2": "CSD Municipal",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "equipo2": "Antigua Guatemala",
+        "comodin": false
+      }
+    ]
   ]
 ]

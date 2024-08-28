@@ -7435,7 +7435,7 @@
         "equipo1": "Bahia",
         "marcador1": "1",
         "equipo2": "Botafogo RJ",
-        "marcador2": "2"
+        "marcador2": "1"
       },
       {
         "equipo1": "Fortaleza",
@@ -7451,9 +7451,9 @@
       },
       {
         "equipo1": "Philadelphia",
-        "marcador1": "0",
+        "marcador1": "1",
         "equipo2": "Colorado",
-        "marcador2": "1"
+        "marcador2": "2"
       },
       {
         "equipo1": "AD Municipal Liberia",
@@ -7463,13 +7463,13 @@
       },
       {
         "equipo1": "Puntarenas FC",
-        "marcador1": "3",
+        "marcador1": "2",
         "equipo2": "Santa Ana FC",
-        "marcador2": "1"
+        "marcador2": "0"
       },
       {
         "equipo1": "Internacional",
-        "marcador1": "0",
+        "marcador1": "1",
         "equipo2": "Cruzeiro",
         "marcador2": "2"
       },
@@ -7477,13 +7477,13 @@
         "equipo1": "Flamengo",
         "marcador1": "2",
         "equipo2": "Red Bull Bragantino",
-        "marcador2": "1"
+        "marcador2": "0"
       },
       {
         "equipo1": "Columbus",
         "marcador1": "1",
         "equipo2": "LAFC",
-        "marcador2": "0"
+        "marcador2": "2"
       },
       {
         "equipo1": "River Plate",
@@ -7621,6 +7621,2430 @@
         "marcador1": "1",
         "equipo2": "Sporting FC",
         "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Alex Mata_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "1",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "2",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "0",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "3",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Orlando_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "1",
+        "equipo2": "Alianza FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "3",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "3",
+        "equipo2": "FC Motagua",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "2",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "3",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Noel Hernandez_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "1",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "1",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "0",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "0",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "1",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Quittis_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "JorgeMarioGamboa_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "0",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "0",
+        "equipo2": "Atletico MG",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "0",
+        "equipo2": "FC Motagua",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "0",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "0",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "3",
+        "equipo2": "CD Aguila",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "0",
+        "equipo2": "CSD Municipal",
+        "marcador2": "4"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Luis Valenciano_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Cerritos_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "0",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "3",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Ricardo Solis Nunez_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "3",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "3",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "4"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "3",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Maria Chinchilla_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "3",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "1",
+        "equipo2": "Atletico MG",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Pin_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "1",
+        "equipo2": "Atletico MG",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Marco Espinoza_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "1",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Keylor Gonzalez_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "3",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "3",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "2",
+        "equipo2": "Corinthians",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Jordi_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "0",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "0",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "0",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Juan Soto_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Napoleon_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Mark_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "1",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Esteban Villalta_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "1",
+        "equipo2": "Alianza FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "1",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "0",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "1",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Milton_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "1",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Bryan Arias_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "1",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "2",
+        "equipo2": "Corinthians",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "Tete_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "1",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "3",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "2",
+        "equipo2": "Corinthians",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
+      }
+    ]
+  ],
+  [
+    "DC_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Jeicros_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "2",
+        "equipo2": "Santa Fe",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "2",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "1",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Hector Espinoza_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "2",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "2",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Internacional",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "0",
+        "equipo2": "Santa Fe",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "2",
+        "equipo2": "San Francisco FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "1",
+        "equipo2": "Independiente",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "1",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "2",
+        "equipo2": "Corinthians",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "2",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "1",
+        "equipo2": "CD Aguila",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "2",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "2",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "1"
+      }
+    ]
+  ],
+  [
+    "Pablo Espinoza_Jornada4",
+    [
+      {
+        "equipo1": "CD Marathon",
+        "marcador1": "0",
+        "equipo2": "Alianza FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Isidro Metapan",
+        "marcador1": "1",
+        "equipo2": "CD Cacahuatique",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "2",
+        "equipo2": "Internacional",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "marcador1": "1",
+        "equipo2": "Santa Fe",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "San Francisco FC",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Godoy Cruz",
+        "marcador1": "0",
+        "equipo2": "Independiente",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "1",
+        "equipo2": "Flamengo",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "2",
+        "equipo2": "Atletico MG",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "3",
+        "equipo2": "FC Motagua",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "0",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "0",
+        "equipo2": "Corinthians",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Vasco da Gama",
+        "marcador1": "0",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Independiente de La Chorrera",
+        "marcador1": "0",
+        "equipo2": "CD Aguila",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "3",
+        "equipo2": "CSD Municipal",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "0"
       }
     ]
   ]

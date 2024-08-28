@@ -280,86 +280,86 @@
       },
       {
         "equipo1": "San Lorenzo",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Talleres",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Bahia",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Botafogo RJ",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Fortaleza",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Corinthians",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Racing Club",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Independiente",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": true
       },
       {
         "equipo1": "Philadelphia",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Colorado",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": false
       },
       {
         "equipo1": "AD Municipal Liberia",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Municipal Perez Zeledon",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Puntarenas FC",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Santa Ana FC",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": false
       },
       {
         "equipo1": "Internacional",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Cruzeiro",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": true
       },
       {
         "equipo1": "Flamengo",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Red Bull Bragantino",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Columbus",
-        "marcador1": "",
+        "marcador1": "3",
         "equipo2": "LAFC",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "River Plate",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Newell's Old Boys",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Club Sport Herediano",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Sporting FC",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       }
     ]

@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {    
+document.addEventListener('DOMContentLoaded', () => {
     const calcularButton = document.querySelector('#calcularResultados');
 
     calcularButton.addEventListener('click', () => {
