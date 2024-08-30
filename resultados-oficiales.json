@@ -369,114 +369,114 @@
     [
       {
         "equipo1": "CD Marathon",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Alianza FC",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "LD Alajuelense",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Comunicaciones FC",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Isidro Metapan",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "CD Cacahuatique",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": true
       },
       {
         "equipo1": "Cruzeiro",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Internacional",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "Bucaramanga",
-        "marcador1": "",
+        "marcador1": "3",
         "equipo2": "Santa Fe",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Tauro FC",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "San Francisco FC",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Godoy Cruz",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Independiente",
-        "marcador2": "",
+        "marcador2": "3",
         "comodin": true
       },
       {
         "equipo1": "Bahia",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Flamengo",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Sao Paulo",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Atletico MG",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Club Sport Herediano",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "FC Motagua",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "AD Guanacasteca",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Real Esteli FC",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": true
       },
       {
         "equipo1": "Juventude",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Corinthians",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Vasco da Gama",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Athletico Paranaense",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Independiente de La Chorrera",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "CD Aguila",
-        "marcador2": "",
+        "marcador2": "3",
         "comodin": true
       },
       {
         "equipo1": "Deportivo Saprissa",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "CSD Municipal",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
         "equipo1": "CD Olimpia",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Antigua Guatemala",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       }
     ]

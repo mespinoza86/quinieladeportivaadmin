@@ -348,5 +348,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada5",
+    [
+      {
+        "equipo1": "Sporting FC",
+        "equipo2": "Deportivo San Carlos",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "equipo2": "AD Municipal Liberia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Talleres",
+        "equipo2": "Estudiantes",
+        "comodin": false
+      },
+      {
+        "equipo1": "Boca Juniors",
+        "equipo2": "Rosario Central",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Cartagines",
+        "equipo2": "Puntarenas FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Fortaleza",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey",
+        "equipo2": "Toluca",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "equipo2": "Club Sport Herediano",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "equipo2": "America",
+        "comodin": true
+      },
+      {
+        "equipo1": "Manchester United",
+        "equipo2": "Liverpool",
+        "comodin": true
+      },
+      {
+        "equipo1": "Juventus",
+        "equipo2": "Roma",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "equipo2": "Flamengo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente",
+        "equipo2": "River Plate",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico Paranaense",
+        "equipo2": "Palmeiras",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "equipo2": "Sao Paulo",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "equipo2": "Deportivo Saprissa",
+        "comodin": true
+      },
+      {
+        "equipo1": "Universidad Nacional",
+        "equipo2": "Tigres",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "equipo2": "CD Marathon",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "equipo2": "AD Guanacasteca",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real España",
+        "equipo2": "CD Olimpia",
+        "comodin": false
+      }
+    ]
   ]
 ]

@@ -1,13 +1,66 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const fs = require('fs');
+const session = require('express-session');
 const path = require('path');
+const fs = require('fs');
 
 const app = express();
 const port = 3000;
 
+
+// Configurar el middleware de sesión
+app.use(session({
+    secret: '$$marcoquiniela1986$$', // Cambia esto por una clave secreta más segura
+    resave: false,
+    saveUninitialized: false,
+    cookie: { secure: false } // Cambia a true si usas HTTPS
+}));
+
 app.use(bodyParser.json());
-app.use(express.static(__dirname));  // Sirve archivos estáticos desde el mismo directorio
+app.use(express.static(__dirname));
+
+// Ruta para servir adminmode.html
+app.get('/adminmode.html', (req, res) => {
+    res.sendFile(path.join(__dirname, 'adminmode.html'));
+});
+
+// Ruta para manejar el inicio de sesión
+app.post('/login', (req, res) => {
+    const { password } = req.body;
+    if (password === 'penjamovillagaby') {
+        req.session.authenticated = true;
+        res.json({ success: true });
+    } else {
+        res.status(401).json({ error: 'Contraseña incorrecta' });
+    }
+});
+
+// Ruta para manejar el cierre de sesión
+app.post('/logout', (req, res) => {
+    req.session.destroy(err => {
+        if (err) {
+            return res.status(500).json({ error: 'Error al cerrar sesión' });
+        }
+        res.json({ success: true });
+    });
+});
+
+
+// Ruta para verificar la autenticación del usuario
+app.get('/check-auth', (req, res) => {
+    res.json({ authenticated: req.session.authenticated || false });
+});
+
+// Ruta para verificar el estado de la sesión
+app.get('/check-auth', (req, res) => {
+    if (req.session.authenticated) {
+        res.json({ authenticated: true });
+    } else {
+        res.json({ authenticated: false });
+    }
+});
+
+/////////// LOGIN CLOSE
 
 // Rutas para servir los archivos HTML
 app.get('/', (req, res) => {
@@ -22,12 +75,28 @@ app.get('/jornada', (req, res) => {
     res.sendFile(path.join(__dirname, 'jornadas.html'));
 });
 
+
+app.get('/ver-jugadores', (req, res) => {
+    res.sendFile(path.join(__dirname, 'ver_jugadores.html'));
+});
+
+
 app.get('/resultados', (req, res) => {
     res.sendFile(path.join(__dirname, 'resultados.html'));
 });
 
 app.get('/ver-resultados', (req, res) => {
     res.sendFile(path.join(__dirname, 'ver-resultados.html'));
+});
+
+app.get('/ver-jornadas', (req, res) => {
+    res.sendFile(path.join(__dirname, 'ver_jornadas.html'));
+});
+
+// Nueva ruta para obtener las jornadas en formato JSON
+app.get('/get-jornadas', (req, res) => {
+    const jornadas = loadJornadas();
+    res.json(Array.from(jornadas.entries()));  // Convertimos el Map a Array para enviar como JSON
 });
 
 // Cargar jugadores desde archivo JSON
