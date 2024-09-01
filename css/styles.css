@@ -317,3 +317,156 @@ footer {
     text-align: left;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilos generales */
+/* Agregado despues de resultatos totales de jugadores */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.container {
+    margin: 20px auto; /* Centrado horizontalmente */
+    text-align: left;
+    max-width: 800px; /* Máximo ancho del contenedor */
+}
+
+.styled-form {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+/* Ajustes para el contenedor de la tabla */
+.tabla-contenedor {
+    width: 100%; /* Ocupa todo el ancho del contenedor padre */
+    overflow-x: auto; /* Desplazamiento horizontal si es necesario */
+    padding: 0; /* Sin padding extra para asegurar el ancho completo */
+    margin: 0 auto; /* Centrar el contenedor */
+}
+
+#tablaContainer {
+    width: 100%; /* Ocupa todo el ancho disponible */
+    display: block; /* Display block para mantener el comportamiento de ancho completo */
+    overflow-x: auto; /* Permite el desplazamiento horizontal */
+}
+
+.resultadosTotalesTable {
+    border-collapse: collapse;
+    width: 100%; /* Ancho completo de la tabla */
+}
+
+.resultadosTotalesTable th,
+.resultadosTotalesTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Mantener fija la primera y última columna */
+.resultadosTotalesTable thead th:first-child,
+.resultadosTotalesTable tbody td:first-child,
+.resultadosTotalesTable thead th:last-child,
+.resultadosTotalesTable tbody td:last-child {
+    position: sticky;
+    background: #fff;
+    z-index: 2;
+}
+
+.resultadosTotalesTable thead th:first-child,
+.resultadosTotalesTable tbody td:first-child {
+    left: 0;
+}
+
+.resultadosTotalesTable thead th:last-child,
+.resultadosTotalesTable tbody td:last-child {
+    right: 0;
+}
+
+/* Estilo adicional para columnas */
+.resultadosTotalesTable th,
+.resultadosTotalesTable td {
+    min-width: 100px; /* Ajuste del ancho mínimo */
+}
+
+/* Botones */
+button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.back-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.back-button:hover {
+    background-color: #555;
+}
+
+input, select {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    text-align: left;
+}
+
+input:focus, select:focus {
+    border-color: #007bff;
+    outline: none;
+}

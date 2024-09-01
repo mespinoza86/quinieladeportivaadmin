@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const equipo1Input = document.getElementById('equipo1Input');
     const equipo2Input = document.getElementById('equipo2Input');
-    const comodinCheckbox = document.getElementById('comodinCheckbox'); // Nuevo checkbox para comodín
+    const comodinCheckbox = document.getElementById('comodinCheckbox');
     const addPartidoButton = document.getElementById('addPartidoButton');
     const finalizarJornadaButton = document.getElementById('finalizarJornadaButton');
     const jornadaSelect = document.getElementById('jornadaSelect');
@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modificarEquipo1Input = document.getElementById('modificarEquipo1Input');
     const modificarEquipo2Input = document.getElementById('modificarEquipo2Input');
     const agregarPartidoButton = document.getElementById('agregarPartidoButton');
+    const modificarComodinCheckbox = document.getElementById('modificarComodinSelect');
 
     let currentPartidos = [];
     let jornadas = new Map();
@@ -83,31 +84,93 @@ document.addEventListener('DOMContentLoaded', () => {
                     partidosModificarList.innerHTML = '';
                     partidos.forEach((partido, index) => {
                         const li = document.createElement('li');
-                        const checkbox = document.createElement('input');
-                        checkbox.type = 'checkbox';
-                        checkbox.value = index;
-                        li.appendChild(checkbox);
-                        li.appendChild(document.createTextNode(`${partido.equipo1} vs ${partido.equipo2}`));
+                        
+                        // Línea 1: Checkbox para modificar el estado de comodín
+                        const comodinCheckbox = document.createElement('input');
+                        comodinCheckbox.type = 'checkbox';
+                        comodinCheckbox.id = `comodinCheckbox_${index}`;
+                        comodinCheckbox.dataset.index = index;
+                        comodinCheckbox.checked = partido.comodin;
+                        const comodinLabel = document.createElement('label');
+                        comodinLabel.textContent = partido.comodin ? 'Quitar de comodín' : 'Agregar como comodín';
+                        comodinLabel.htmlFor = `comodinCheckbox_${index}`;
+                        comodinCheckbox.addEventListener('change', handleComodinChange);
+
+                        const comodinLine = document.createElement('div');
+                        comodinLine.appendChild(comodinCheckbox);
+                        comodinLine.appendChild(comodinLabel);
+                        
+                        li.appendChild(comodinLine);
+
+                        // Línea 2: Partido
+                        const partidoLine = document.createElement('div');
+                        partidoLine.textContent = `${partido.equipo1} vs ${partido.equipo2}`;
                         if (partido.comodin) {
-                            li.appendChild(document.createTextNode(' (Comodín)'));
+                            partidoLine.textContent += ' (Comodín)';
                         }
+                        li.appendChild(partidoLine);
+
+                        // Línea 3: Checkbox para eliminar el partido
+                        const eliminarCheckbox = document.createElement('input');
+                        eliminarCheckbox.type = 'checkbox';
+                        eliminarCheckbox.id = `eliminarCheckbox_${index}`;
+                        eliminarCheckbox.dataset.index = index;
+                        const eliminarLabel = document.createElement('label');
+                        eliminarLabel.textContent = 'Selecciona para eliminar';
+                        eliminarLabel.htmlFor = `eliminarCheckbox_${index}`;
+
+                        const eliminarLine = document.createElement('div');
+                        eliminarLine.appendChild(eliminarCheckbox);
+                        eliminarLine.appendChild(eliminarLabel);
+                        
+                        li.appendChild(eliminarLine);
+
                         partidosModificarList.appendChild(li);
                     });
                 });
         }
     }
 
+    function handleComodinChange(event) {
+        const index = event.target.dataset.index;
+        const isChecked = event.target.checked;
+
+        const message = isChecked ? 
+            '¿Está seguro que quiere mover este partido a comodín?' :
+            '¿Está seguro que quiere cambiar este partido a que no sea comodín?';
+
+        if (confirm(message)) {
+            const selectedJornada = modificarJornadaSelect.value;
+            fetch(`/api/jornadas/${selectedJornada}`)
+                .then(response => response.json())
+                .then(partidos => {
+                    partidos[index].comodin = isChecked;
+                    fetch('/api/jornadas', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ nombre: selectedJornada, partidos: partidos })
+                    })
+                    .then(() => {
+                        updateJornadaPartidos();
+                        updateModificarJornadaPartidos();
+                    });
+                });
+        } else {
+            event.target.checked = !isChecked; // Revertir el checkbox si no se confirma
+        }
+    }
+
     addPartidoButton.addEventListener('click', () => {
         const equipo1 = equipo1Input.value.trim();
         const equipo2 = equipo2Input.value.trim();
-        const comodin = comodinCheckbox.checked; // Capturamos si es comodín
+        const comodin = comodinCheckbox.checked;
 
         if (equipo1 && equipo2) {
             currentPartidos.push({ equipo1, equipo2, comodin });
             updatePartidosList();
             equipo1Input.value = '';
             equipo2Input.value = '';
-            comodinCheckbox.checked = false; // Reseteamos el checkbox
+            comodinCheckbox.checked = false;
         }
     });
 
@@ -128,94 +191,62 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
             }
         } else {
-            alert('Debe agregar al menos un partido antes de finalizar la jornada.');
+            alert('No hay partidos para agregar a la jornada.');
         }
     });
 
-    jornadaSelect.addEventListener('change', () => {
-        updateJornadaPartidos();
-    });
-
+    jornadaSelect.addEventListener('change', updateJornadaPartidos);
     modificarJornadaSelect.addEventListener('change', () => {
-        const selectedJornada = modificarJornadaSelect.value;
-        partidosModificarList.innerHTML = '';
-        modificarJornadaControls.style.display = 'block';
-        if (selectedJornada) {
-            jornadaActualParaModificar = selectedJornada;
-            updateModificarJornadaPartidos();
-        } else {
-            jornadaActualParaModificar = '';
-            modificarJornadaControls.style.display = 'none';
-        }
+        jornadaActualParaModificar = modificarJornadaSelect.value;
+        modificarJornadaControls.style.display = jornadaActualParaModificar ? 'block' : 'none';
+        updateModificarJornadaPartidos();
     });
-
 
     agregarPartidoButton.addEventListener('click', () => {
-        if (jornadaActualParaModificar) {
-            const equipo1 = modificarEquipo1Input.value.trim();
-            const equipo2 = modificarEquipo2Input.value.trim();
-            const comodin = modificarComodinSelect.checked; // Capturamos si es comodín
+        const equipo1 = modificarEquipo1Input.value.trim();
+        const equipo2 = modificarEquipo2Input.value.trim();
+        const comodin = modificarComodinCheckbox.checked;
 
-            if (equipo1 && equipo2) {
-                const confirmacion = confirm(`¿Está seguro que quiere agregar el partido ${equipo1} vs ${equipo2} a la jornada?`);
-                if (confirmacion) {
-                    fetch('/api/jornadas/agregar-partido', {
+        if (equipo1 && equipo2 && jornadaActualParaModificar) {
+            fetch(`/api/jornadas/${jornadaActualParaModificar}`)
+                .then(response => response.json())
+                .then(partidos => {
+                    partidos.push({ equipo1, equipo2, comodin });
+                    fetch('/api/jornadas', {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({
-                            jornada: jornadaActualParaModificar,
-                            partido: { equipo1, equipo2, comodin }
-                        })
+                        body: JSON.stringify({ nombre: jornadaActualParaModificar, partidos: partidos })
                     })
                     .then(() => {
-                        modificarEquipo1Input.value = '';
-                        modificarEquipo2Input.value = '';
-                        modificarComodinSelect.checked = false; // Reseteamos el checkbox
-                        alert('El partido se agregó correctamente.');
                         updateJornadaPartidos();
                         updateModificarJornadaPartidos();
-                        jornadaSelect.dispatchEvent(new Event('change'));
+                        modificarEquipo1Input.value = '';
+                        modificarEquipo2Input.value = '';
+                        modificarComodinCheckbox.checked = false;
                     });
-                }
-            }
-        } else {
-            alert('Seleccione una jornada para modificar.');
+                });
         }
     });
 
     eliminarPartidosButton.addEventListener('click', () => {
-        const selectedJornada = modificarJornadaSelect.value;
-        if (selectedJornada) {
-            fetch(`/api/jornadas/${selectedJornada}`)
+        const selectedIndices = Array.from(document.querySelectorAll('#partidosModificarList input[type="checkbox"]:checked'))
+                                    .map(cb => cb.dataset.index);
+
+        if (selectedIndices.length > 0 && jornadaActualParaModificar) {
+            fetch(`/api/jornadas/${jornadaActualParaModificar}`)
                 .then(response => response.json())
                 .then(partidos => {
-                    const checkboxes = partidosModificarList.querySelectorAll('input[type="checkbox"]:checked');
-                    const indicesToRemove = Array.from(checkboxes).map(cb => parseInt(cb.value));
-    
-                    if (indicesToRemove.length > 0) {
-                        const partidosAEliminar = indicesToRemove.map(index => `${partidos[index].equipo1} vs ${partidos[index].equipo2}`).join('\n');
-                        const confirmacion = confirm(`Está seguro que quiere eliminar los siguientes partidos:\n\n${partidosAEliminar}`);
-                        if (confirmacion) {
-                            fetch('/api/jornadas/eliminar-partidos', {
-                                method: 'POST',
-                                headers: { 'Content-Type': 'application/json' },
-                                body: JSON.stringify({
-                                    jornada: selectedJornada,
-                                    indices: indicesToRemove
-                                })
-                            })
-                            .then(() => {
-                                alert('Los partidos se eliminaron correctamente.');
-                                updateModificarJornadaPartidos();
-                                jornadaSelect.dispatchEvent(new Event('change'));
-                            });
-                        }
-                    } else {
-                        alert('Debe seleccionar al menos un partido para eliminar.');
-                    }
+                    const updatedPartidos = partidos.filter((_, index) => !selectedIndices.includes(index.toString()));
+                    fetch('/api/jornadas', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ nombre: jornadaActualParaModificar, partidos: updatedPartidos })
+                    })
+                    .then(() => {
+                        updateJornadaPartidos();
+                        updateModificarJornadaPartidos();
+                    });
                 });
-        } else {
-            alert('Seleccione una jornada para eliminar partidos.');
         }
     });
 

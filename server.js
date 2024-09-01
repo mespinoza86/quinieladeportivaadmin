@@ -99,6 +99,17 @@ app.get('/get-jornadas', (req, res) => {
     res.json(Array.from(jornadas.entries()));  // Convertimos el Map a Array para enviar como JSON
 });
 
+// Servir el archivo HTML
+app.get('/ver_resultados_totales_de_jugadores', (req, res) => {
+    res.sendFile(path.join(__dirname, 'ver_resultados_totales_de_jugadores.html'));
+  });
+  
+app.get('/js/ver_resultados_totales_de_jugadores.js', (req, res) => {
+    res.sendFile(path.join(__dirname, 'js', 'ver_resultados_totales_de_jugadores.js'));
+  });
+
+  
+
 // Cargar jugadores desde archivo JSON
 function loadJugadores() {
     try {
@@ -240,6 +251,25 @@ app.post('/api/jornadas/eliminar-partidos', (req, res) => {
     saveJornadas(jornadas);
     res.status(200).json({ success: true });
 });
+
+
+
+// Ruta para modificar el estado de comodín
+app.post('/api/jornadas/comodin', (req, res) => {
+    const { jornada, partidos } = req.body;
+
+    if (!jornada || !Array.isArray(partidos)) {
+        return res.status(400).send('Datos inválidos');
+    }
+
+    if (jornadas.has(jornada)) {
+        jornadas.set(jornada, partidos);
+        res.status(200).send('Estado de comodín actualizado correctamente');
+    } else {
+        res.status(404).send('Jornada no encontrada');
+    }
+});
+
 
 // Endpoints para resultados
 app.get('/api/resultados', (req, res) => {
