@@ -480,5 +480,295 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada5",
+    [
+      {
+        "equipo1": "Sporting FC",
+        "marcador1": "2",
+        "equipo2": "Deportivo San Carlos",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "marcador1": "2",
+        "equipo2": "AD Municipal Liberia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Talleres",
+        "marcador1": "1",
+        "equipo2": "Estudiantes",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Boca Juniors",
+        "marcador1": "2",
+        "equipo2": "Rosario Central",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Cartagines",
+        "marcador1": "1",
+        "equipo2": "Puntarenas FC",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "marcador1": "2",
+        "equipo2": "Fortaleza",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey",
+        "marcador1": "1",
+        "equipo2": "Toluca",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "marcador1": "3",
+        "equipo2": "Club Sport Herediano",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "marcador1": "4",
+        "equipo2": "America",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Manchester United",
+        "marcador1": "0",
+        "equipo2": "Liverpool",
+        "marcador2": "3",
+        "comodin": true
+      },
+      {
+        "equipo1": "Juventus",
+        "marcador1": "0",
+        "equipo2": "Roma",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "marcador1": "2",
+        "equipo2": "Flamengo",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente",
+        "marcador1": "0",
+        "equipo2": "River Plate",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico Paranaense",
+        "marcador1": "0",
+        "equipo2": "Palmeiras",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "marcador1": "2",
+        "equipo2": "Sao Paulo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "1",
+        "equipo2": "Deportivo Saprissa",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Universidad Nacional",
+        "marcador1": "1",
+        "equipo2": "Tigres",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "marcador1": "0",
+        "equipo2": "CD Marathon",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "marcador1": "1",
+        "equipo2": "AD Guanacasteca",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real España",
+        "marcador1": "2",
+        "equipo2": "CD Olimpia",
+        "marcador2": "0",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 6",
+    [
+      {
+        "equipo1": "Guadalupe",
+        "marcador1": "2",
+        "equipo2": "Heredia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Malasia",
+        "marcador1": "2",
+        "equipo2": "Filipinas",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Comoros",
+        "marcador1": "1",
+        "equipo2": "Gambia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Gibraltar",
+        "marcador1": "1",
+        "equipo2": "Andorra",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Libia",
+        "marcador1": "1",
+        "equipo2": "Ruanda",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Tanzania",
+        "marcador1": "0",
+        "equipo2": "Etopia",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Anguila",
+        "marcador1": "2",
+        "equipo2": "Islas turcas",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sudán",
+        "marcador1": "1",
+        "equipo2": "Niger",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Islas vírgenes",
+        "marcador1": "3",
+        "equipo2": "Bahamas",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Britinis",
+        "marcador1": "0",
+        "equipo2": "Islas caiman",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Timor-Leste",
+        "marcador1": "",
+        "equipo2": "Mongolia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sri Lanka",
+        "marcador1": "",
+        "equipo2": "Camboya",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Japon",
+        "marcador1": "",
+        "equipo2": "China",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Malaui",
+        "marcador1": "",
+        "equipo2": "Burundi",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Uzbekistán",
+        "marcador1": "",
+        "equipo2": "Corea del norte",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "República centroafricana",
+        "marcador1": "",
+        "equipo2": "Lesotho",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ghana",
+        "marcador1": "",
+        "equipo2": "Angola",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "PFC",
+        "marcador1": "2",
+        "equipo2": "ADG",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "LDA",
+        "marcador1": "",
+        "equipo2": "Escorpiones",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos",
+        "marcador1": "",
+        "equipo2": "Saprissa",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
   ]
 ]

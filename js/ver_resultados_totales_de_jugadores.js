@@ -149,7 +149,7 @@ function calcularPuntos(partidoPronosticado, resultadoOficialJornada, partido) {
                        (marcador1Pronosticado === marcador2Pronosticado && marcador1Oficial === marcador2Oficial)) {
                 puntos += 3;                
                 if (esComodin) {
-                    puntos += 2;       
+                    puntos += 1;       
                 }
 
             }

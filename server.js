@@ -299,6 +299,21 @@ app.get('/api/resultados/:jugador/:jornada', (req, res) => {
     }
 });
 
+
+/*para precargar resultados */
+app.get('/api/resultados/:jugador/:jornada', (req, res) => {
+    const { jugador, jornada } = req.params;
+    const resultados = loadResultados();
+    const key = `${jugador}_${jornada}`;
+    
+    if (resultados.has(key)) {
+        res.json(resultados.get(key));
+    } else {
+        res.json([]);  // Retorna un array vacío si no hay resultados previos
+    }
+});
+
+
 // Nuevo endpoint para obtener los resultados de una jornada específica
 app.get('/api/resultados-oficiales/:jornada', (req, res) => {
     const { jornada } = req.params;
