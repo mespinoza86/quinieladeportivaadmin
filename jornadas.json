@@ -564,17 +564,17 @@
     [
       {
         "equipo1": "Guinea",
-        "equipo2": "Suazlandia",
+        "equipo2": "Suazilandia",
         "comodin": true
       },
       {
         "equipo1": "Congo",
-        "equipo2": "Sudan",
+        "equipo2": "Sudan del Sur",
         "comodin": false
       },
       {
         "equipo1": "Quatar",
-        "equipo2": "Emiratos",
+        "equipo2": "Emiratos Arabes Unidos",
         "comodin": false
       },
       {
@@ -588,7 +588,7 @@
         "comodin": false
       },
       {
-        "equipo1": "Arabia",
+        "equipo1": "Arabia Saudi",
         "equipo2": "Indonesia",
         "comodin": false
       },
@@ -614,16 +614,16 @@
       },
       {
         "equipo1": "Estonia",
-        "equipo2": "Eslovenia",
+        "equipo2": "Eslovaquia",
         "comodin": false
       },
       {
-        "equipo1": "Irlanda",
-        "equipo2": "Luxerburgo",
+        "equipo1": "Irlanda del Norte",
+        "equipo2": "Luxemburgo",
         "comodin": false
       },
       {
-        "equipo1": "San marino",
+        "equipo1": "San Marino",
         "equipo2": "Liechtenstein",
         "comodin": true
       },
@@ -634,7 +634,7 @@
       },
       {
         "equipo1": "Monserrat",
-        "equipo2": "El salvador",
+        "equipo2": "El Salvador",
         "comodin": false
       },
       {
@@ -648,7 +648,7 @@
         "comodin": true
       },
       {
-        "equipo1": "CR",
+        "equipo1": "Costa Rica",
         "equipo2": "Guadalupe",
         "comodin": false
       },
@@ -669,7 +669,7 @@
     [
       {
         "equipo1": "Togo",
-        "equipo2": "Libia",
+        "equipo2": "Liberia",
         "comodin": false
       },
       {
@@ -708,7 +708,7 @@
         "comodin": false
       },
       {
-        "equipo1": "Cote",
+        "equipo1": "Costa de Marfil",
         "equipo2": "Zambia",
         "comodin": false
       },
@@ -719,17 +719,17 @@
       },
       {
         "equipo1": "Senegal",
-        "equipo2": "Burkina",
+        "equipo2": "Burkina Faso",
         "comodin": false
       },
       {
         "equipo1": "Lucia",
-        "equipo2": "Curacao",
+        "equipo2": "Curazao",
         "comodin": true
       },
       {
-        "equipo1": "Marteen",
-        "equipo2": "Uruba",
+        "equipo1": "Sint Marteen",
+        "equipo2": "Aruba",
         "comodin": true
       },
       {
@@ -743,12 +743,12 @@
         "comodin": false
       },
       {
-        "equipo1": "Martin",
+        "equipo1": "Saint Martin",
         "equipo2": "Granada",
         "comodin": false
       },
       {
-        "equipo1": "Puerto rico",
+        "equipo1": "Puerto Rico",
         "equipo2": "Haiti",
         "comodin": false
       },
@@ -764,7 +764,7 @@
       },
       {
         "equipo1": "Honduras",
-        "equipo2": "Tobago",
+        "equipo2": "TrinidadTobago",
         "comodin": false
       }
     ]
