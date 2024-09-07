@@ -794,11 +794,11 @@
       },
       {
         "equipo1": "Camerum",
-        "equipo2": "Nambia",
+        "equipo2": "Namibia",
         "comodin": false
       },
       {
-        "equipo1": "Geogia",
+        "equipo1": "Georgia",
         "equipo2": "Checa",
         "comodin": false
       },
@@ -819,7 +819,7 @@
       },
       {
         "equipo1": "Holanda",
-        "equipo2": "Bosnia",
+        "equipo2": "Bosnia-Herzegovina",
         "comodin": false
       },
       {
@@ -853,7 +853,7 @@
         "comodin": false
       },
       {
-        "equipo1": "Islas caiman",
+        "equipo1": "Islas Caiman",
         "equipo2": "San Cristóbal",
         "comodin": false
       },
@@ -864,12 +864,12 @@
       },
       {
         "equipo1": "LDA",
-        "equipo2": "Adg",
+        "equipo2": "ADG",
         "comodin": false
       },
       {
         "equipo1": "Hong kong",
-        "equipo2": "Fily",
+        "equipo2": "Fiyy",
         "comodin": false
       }
     ]
@@ -899,7 +899,7 @@
       },
       {
         "equipo1": "Bulgaria",
-        "equipo2": "Irlanda del norte",
+        "equipo2": "Irlanda del Norte",
         "comodin": false
       },
       {
@@ -933,7 +933,7 @@
         "comodin": true
       },
       {
-        "equipo1": "El salvador",
+        "equipo1": "El Salvador",
         "equipo2": "Bonaire",
         "comodin": false
       }
@@ -949,7 +949,7 @@
       },
       {
         "equipo1": "Niger",
-        "equipo2": "Gana",
+        "equipo2": "Ghana",
         "comodin": false
       },
       {
@@ -964,11 +964,11 @@
       },
       {
         "equipo1": "Chipre",
-        "equipo2": "Cosovo",
+        "equipo2": "Kosovo",
         "comodin": false
       },
       {
-        "equipo1": "Lesotho",
+        "equipo1": "Lesoto",
         "equipo2": "Marruecos",
         "comodin": false
       },
@@ -984,7 +984,7 @@
       },
       {
         "equipo1": "Eslovenia",
-        "equipo2": "Kasakistan",
+        "equipo2": "Kasajistan",
         "comodin": false
       },
       {
@@ -1008,7 +1008,7 @@
         "comodin": false
       },
       {
-        "equipo1": "Etopia",
+        "equipo1": "Etiopia",
         "equipo2": "Congo",
         "comodin": true
       },
