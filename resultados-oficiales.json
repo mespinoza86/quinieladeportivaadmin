@@ -1054,9 +1054,154 @@
       },
       {
         "equipo1": "Honduras",
-        "marcador1": "2",
+        "marcador1": "4",
         "equipo2": "TrinidadTobago",
         "marcador2": "0",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 9",
+    [
+      {
+        "equipo1": "Rusia",
+        "marcador1": "",
+        "equipo2": "Tailandia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bermudas",
+        "marcador1": "2",
+        "equipo2": "República Dominicana",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Mauritania",
+        "marcador1": "1",
+        "equipo2": "Botsuna",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Nigeria",
+        "marcador1": "3",
+        "equipo2": "Benin",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Camerum",
+        "marcador1": "1",
+        "equipo2": "Namibia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Georgia",
+        "marcador1": "4",
+        "equipo2": "Checa",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Irlanda",
+        "marcador1": "0",
+        "equipo2": "Inglaterra",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Armenia",
+        "marcador1": "4",
+        "equipo2": "Letonia",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Alemania",
+        "marcador1": "5",
+        "equipo2": "Hungria",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Holanda",
+        "marcador1": "5",
+        "equipo2": "Bosnia-Herzegovina",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ucrania",
+        "marcador1": "1",
+        "equipo2": "Albania",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Grecia",
+        "marcador1": "3",
+        "equipo2": "Finlandia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Islas Vírgenes",
+        "marcador1": "0",
+        "equipo2": "Belice",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "EEUU",
+        "marcador1": "1",
+        "equipo2": "Canada",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Dominica",
+        "marcador1": "2",
+        "equipo2": "Antigua",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Bahamas",
+        "marcador1": "2",
+        "equipo2": "Bermudas",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Islas Caiman",
+        "marcador1": "1",
+        "equipo2": "San Cristóbal",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "México",
+        "marcador1": "",
+        "equipo2": "Nueva Zelanda",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "LDA",
+        "marcador1": "",
+        "equipo2": "ADG",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Hong kong",
+        "marcador1": "",
+        "equipo2": "Fiyi",
+        "marcador2": "",
         "comodin": false
       }
     ]
