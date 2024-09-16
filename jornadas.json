@@ -1308,5 +1308,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada15",
+    [
+      {
+        "equipo1": "Jueventus",
+        "equipo2": "PSV Eindhoven",
+        "comodin": false
+      },
+      {
+        "equipo1": "Young Boys",
+        "equipo2": "Aston Villa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Milan",
+        "equipo2": "Liverpool",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sporting CP",
+        "equipo2": "Lille",
+        "comodin": false
+      },
+      {
+        "equipo1": "Colo Colo",
+        "equipo2": "River Plate",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "equipo2": "AD Municipal Liberia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bologna",
+        "equipo2": "Shakhtar Donetsk",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sparta Prague",
+        "equipo2": "Salzburg",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Brugge",
+        "equipo2": "Dortmund",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester City",
+        "equipo2": "Inter",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "equipo2": "Santos de Guapiles",
+        "comodin": false
+      },
+      {
+        "equipo1": "Lanus",
+        "equipo2": "Independiente Medellin",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC",
+        "equipo2": "AD Guanacasteca",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "equipo2": "San Carlos",
+        "comodin": false
+      },
+      {
+        "equipo1": "Feyenoord",
+        "equipo2": "Leverkusen",
+        "comodin": false
+      },
+      {
+        "equipo1": "Brest",
+        "equipo2": "Sturm Graz",
+        "comodin": true
+      },
+      {
+        "equipo1": "Flamengo",
+        "equipo2": "Peñarol",
+        "comodin": false
+      },
+      {
+        "equipo1": "Libertad",
+        "equipo2": "Cruzeiro",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "equipo2": "C.S. Cartagines",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC",
+        "equipo2": "LD Alajuelense",
+        "comodin": false
+      }
+    ]
   ]
 ]
