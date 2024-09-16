@@ -1043,5 +1043,270 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada12",
+    [
+      {
+        "equipo1": "Gabón",
+        "equipo2": "República Centroafricana",
+        "comodin": false
+      },
+      {
+        "equipo1": "Guinea",
+        "equipo2": "Tanzania",
+        "comodin": false
+      },
+      {
+        "equipo1": "Namibia",
+        "equipo2": "Kenia",
+        "comodin": true
+      },
+      {
+        "equipo1": "Emiratos Árabes Unidos",
+        "equipo2": "Irán",
+        "comodin": false
+      },
+      {
+        "equipo1": "Kuwait",
+        "equipo2": "Irak",
+        "comodin": false
+      },
+      {
+        "equipo1": "Países Bajos",
+        "equipo2": "Alemania",
+        "comodin": true
+      },
+      {
+        "equipo1": "Albania",
+        "equipo2": "Georgia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Chequia",
+        "equipo2": "Ucrania",
+        "comodin": false
+      },
+      {
+        "equipo1": "Irlanda",
+        "equipo2": "Grecia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Belice",
+        "equipo2": "Anguila",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cuba",
+        "equipo2": "Nicaragua",
+        "comodin": true
+      },
+      {
+        "equipo1": "Colombia",
+        "equipo2": "Argentina",
+        "comodin": true
+      },
+      {
+        "equipo1": "Chile",
+        "equipo2": "Bolivia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ecuador",
+        "equipo2": "Perú",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "equipo2": "C.S. Cartaginés",
+        "comodin": false
+      },
+      {
+        "equipo1": "Venezuela",
+        "equipo2": "Uruguay",
+        "comodin": false
+      },
+      {
+        "equipo1": "Paraguay",
+        "equipo2": "Brasil",
+        "comodin": false
+      },
+      {
+        "equipo1": "Honduras",
+        "equipo2": "Jamaica",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "equipo2": "Deportivo San Carlos",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC",
+        "equipo2": "Santos de Guápiles",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada13",
+    [
+      {
+        "equipo1": "Deportivo Mixco",
+        "equipo2": "Club Xelaju",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "equipo2": "San Ana FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Internacional",
+        "equipo2": "Fortaleza",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "equipo2": "Juventude",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico Paranaense",
+        "equipo2": "Vasco da Gama",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Aguila",
+        "equipo2": "Alianza FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC",
+        "equipo2": "LD Alajuelense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "equipo2": "Municipal Perez Zeledon",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atletico MG",
+        "equipo2": "Sao Paulo",
+        "comodin": true
+      },
+      {
+        "equipo1": "Flamengo",
+        "equipo2": "Bahia",
+        "comodin": true
+      }
+    ]
+  ],
+  [
+    "Jornada14",
+    [
+      {
+        "equipo1": "Atletico GO",
+        "equipo2": "Vitoria",
+        "comodin": false
+      },
+      {
+        "equipo1": "Racing Club",
+        "equipo2": "Boca Juniors",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "equipo2": "AD Guanacasteca",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "equipo2": "Deportivo Saprissa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "Tijuana",
+        "comodin": false
+      },
+      {
+        "equipo1": "Belgrano",
+        "equipo2": "Independiente",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Universitario",
+        "equipo2": "CD Arabe Unido",
+        "comodin": true
+      },
+      {
+        "equipo1": "America",
+        "equipo2": "Chivas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza FC",
+        "equipo2": "CD FAS",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tottenham",
+        "equipo2": "Arsenal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atalanta",
+        "equipo2": "Fiorentina",
+        "comodin": true
+      },
+      {
+        "equipo1": "C.S. Cartagines",
+        "equipo2": "Sporting FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Juventude",
+        "equipo2": "Fluminense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Red Bull Bragantino",
+        "equipo2": "Gremio",
+        "comodin": false
+      },
+      {
+        "equipo1": "Rosario Central",
+        "equipo2": "Talleres",
+        "comodin": true
+      },
+      {
+        "equipo1": "Firpo",
+        "equipo2": "CD Aguila",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "equipo2": "Sao Paulo",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Ana FC",
+        "equipo2": "Municipal Perez Zeledon",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Juniors",
+        "equipo2": "Newell's Old Boys",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos",
+        "equipo2": "Puntarenas",
+        "comodin": false
+      }
+    ]
   ]
 ]
