@@ -6,6 +6,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const copiarTextoButton = document.getElementById('copiarTextoButton');
     copiarTextoButton.addEventListener('click', copiarResultados);
+  
+   const enviarWhatsappButton = document.getElementById('enviarWhatsappButton');
+    enviarWhatsappButton.addEventListener('click', enviarPorWhatsapp);
+  
 });
 
 function loadPartidos(index) {
@@ -42,6 +46,8 @@ function copiarResultados() {
     const nombreJugador = document.getElementById('nombreJugador').value.trim();
     const partidosContainer = document.getElementById('partidosContainer');
     let textoResultado = '';
+    let contador = 1;
+    
 
     // Agregar el nombre del jugador al principio del texto
     textoResultado += `-------------------------------\n`;
@@ -50,6 +56,7 @@ function copiarResultados() {
     } else {
         textoResultado += `Nombre: [Sin nombre]\n\n`; // En caso de que no se ingrese nombre
     }
+    textoResultado += `-------------------------------\n`;
 
     // Recorrer los partidos y agregar el formato correspondiente
     Array.from(partidosContainer.children).forEach((partidoDiv, index) => {
@@ -58,10 +65,10 @@ function copiarResultados() {
         const equipo2 = partidoDiv.children[4].textContent;
         const resultado2 = document.getElementById(`resultadoEquipo2_${index}`).value || '0';
 
-        textoResultado += `-------------------------------\n|${resultado1}| ${equipo1} vs ${equipo2} |${resultado2}|\n`;
+        textoResultado += `\n${contador}. ${equipo1} ${resultado1} \n  ${equipo2} ${resultado2}\n`;
+        contador++;
     });
-
-    textoResultado += `-------------------------------\n`;
+    
     // Copiar al portapapeles
     navigator.clipboard.writeText(textoResultado).then(() => {
         alert('Texto copiado al portapapeles');
@@ -69,3 +76,36 @@ function copiarResultados() {
         console.error('Error al copiar el texto:', err);
     });
 }
+
+// Nueva función: Enviar el resultado por WhatsApp
+function enviarPorWhatsapp() {
+    const nombreJugador = document.getElementById('nombreJugador').value.trim();
+    const partidosContainer = document.getElementById('partidosContainer');
+    let textoResultado = '';
+    let contador = 1;
+
+    // Construir el mensaje como en copiarResultados
+    textoResultado += `-------------------------------\n`;
+    if (nombreJugador) {
+        textoResultado += `Nombre: ${nombreJugador}\n`;
+    } else {
+        textoResultado += `Nombre: [Sin nombre]\n\n`;
+    }
+    textoResultado += `-------------------------------\n`;
+
+    Array.from(partidosContainer.children).forEach((partidoDiv, index) => {
+        const equipo1 = partidoDiv.children[0].textContent;
+        const resultado1 = document.getElementById(`resultadoEquipo1_${index}`).value || '0';
+        const equipo2 = partidoDiv.children[4].textContent;
+        const resultado2 = document.getElementById(`resultadoEquipo2_${index}`).value || '0';
+
+        textoResultado += `\n${contador}. ${equipo1} ${resultado1} \n  ${equipo2} ${resultado2}\n`;
+        contador++;
+    });
+
+   // Formatear el mensaje para WhatsApp y redirigir
+    const mensajeWhatsapp = encodeURIComponent(textoResultado);
+    const whatsappURL = `https://wa.me/?text=${mensajeWhatsapp}`;
+    window.open(whatsappURL, '_blank');
+}
+

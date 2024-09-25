@@ -1804,5 +1804,295 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada15",
+    [
+      {
+        "equipo1": "Jueventus",
+        "marcador1": "3",
+        "equipo2": "PSV Eindhoven",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Young Boys",
+        "marcador1": "0",
+        "equipo2": "Aston Villa",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Milan",
+        "marcador1": "1",
+        "equipo2": "Liverpool",
+        "marcador2": "3",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sporting CP",
+        "marcador1": "2",
+        "equipo2": "Lille",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Colo Colo",
+        "marcador1": "1",
+        "equipo2": "River Plate",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "5",
+        "equipo2": "AD Municipal Liberia",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bologna",
+        "marcador1": "0",
+        "equipo2": "Shakhtar Donetsk",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sparta Prague",
+        "marcador1": "3",
+        "equipo2": "Salzburg",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Brugge",
+        "marcador1": "0",
+        "equipo2": "Dortmund",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester City",
+        "marcador1": "0",
+        "equipo2": "Inter",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "marcador1": "1",
+        "equipo2": "Santos de Guapiles",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Lanus",
+        "marcador1": "0",
+        "equipo2": "Independiente Medellin",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC",
+        "marcador1": "0",
+        "equipo2": "AD Guanacasteca",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "3",
+        "equipo2": "San Carlos",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Feyenoord",
+        "marcador1": "0",
+        "equipo2": "Leverkusen",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Brest",
+        "marcador1": "2",
+        "equipo2": "Sturm Graz",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Flamengo",
+        "marcador1": "0",
+        "equipo2": "Peñarol",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Libertad",
+        "marcador1": "0",
+        "equipo2": "Cruzeiro",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "marcador1": "0",
+        "equipo2": "C.S. Cartagines",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC",
+        "marcador1": "0",
+        "equipo2": "LD Alajuelense",
+        "marcador2": "1",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada16",
+    [
+      {
+        "equipo1": "Rennes",
+        "marcador1": "1",
+        "equipo2": "Lens",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Boca Juniors",
+        "marcador1": "0",
+        "equipo2": "River Plate",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Universitario",
+        "marcador1": "0",
+        "equipo2": "Sporting San Miguelito",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "marcador1": "",
+        "equipo2": "Deportivo Saprissa",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Defensa y Justicia",
+        "marcador1": "0",
+        "equipo2": "San Lorenzo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Necaxa",
+        "marcador1": "1",
+        "equipo2": "America",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "2",
+        "equipo2": "Santa Ana FC",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "marcador1": "1",
+        "equipo2": "Chivas",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Betis",
+        "marcador1": "1",
+        "equipo2": "Mallorca",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo San Carlos",
+        "marcador1": "",
+        "equipo2": "Santos de Guapiles",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fiorentina",
+        "marcador1": "2",
+        "equipo2": "Lazio",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester City",
+        "marcador1": "2",
+        "equipo2": "Arsenal",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente",
+        "marcador1": "0",
+        "equipo2": "Argentinos Juniors",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter",
+        "marcador1": "1",
+        "equipo2": "Milan",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Atletico MG",
+        "marcador1": "3",
+        "equipo2": "Red Bull Gragantino",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Talleres",
+        "marcador1": "2",
+        "equipo2": "Racing Club",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC",
+        "marcador1": "1",
+        "equipo2": "Municipal Perez Zeledon",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "2",
+        "equipo2": "C.S. Cartagines",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atletico Tucuman",
+        "marcador1": "2",
+        "equipo2": "Belgrano",
+        "marcador2": "4",
+        "comodin": true
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "2",
+        "equipo2": "Sporting FC",
+        "marcador2": "1",
+        "comodin": false
+      }
+    ]
   ]
 ]
