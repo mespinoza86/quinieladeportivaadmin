@@ -2094,5 +2094,1380 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada 17",
+    [
+      {
+        "equipo1": "River Plate",
+        "marcador1": "1",
+        "equipo2": "Colo Colo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "marcador1": "3",
+        "equipo2": "Fortaleza",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Antigua Guatemala",
+        "marcador1": "0",
+        "equipo2": "Deportivo Saprissa",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fenerbahce",
+        "marcador1": "2",
+        "equipo2": "Union St. Gilloise",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Frankfurt",
+        "marcador1": "3",
+        "equipo2": "Viktoria Plzen",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "FCSB",
+        "marcador1": "4",
+        "equipo2": "RFS",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Lyon",
+        "marcador1": "2",
+        "equipo2": "Olympiacos",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Roma",
+        "marcador1": "1",
+        "equipo2": "Athletic Club",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Peñarol",
+        "marcador1": "0",
+        "equipo2": "Flamengo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "marcador1": "1",
+        "equipo2": "Libertad",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Racing Club",
+        "marcador1": "4",
+        "equipo2": "Athletico Paranaense",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Comunicaciones FC",
+        "marcador1": "1",
+        "equipo2": "LD Alajuelense",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Galatasaray",
+        "marcador1": "3",
+        "equipo2": "PAOK Thessaloniki FC",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Man United",
+        "marcador1": "1",
+        "equipo2": "FC Twente",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico MG",
+        "marcador1": "2",
+        "equipo2": "Fluminense",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Columbus",
+        "marcador1": "1",
+        "equipo2": "America",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "marcador1": "2",
+        "equipo2": "CD Aguila",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "1",
+        "equipo2": "Botafogo RJ",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente Medellin",
+        "marcador1": "1",
+        "equipo2": "Lanus",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "FC Motagua",
+        "marcador1": "2",
+        "equipo2": "Club Sport Herediano",
+        "marcador2": "2",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 18",
+    [
+      {
+        "equipo1": "Santa Ana FC",
+        "marcador1": "3",
+        "equipo2": "Deportiva San Carlos",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Udinese",
+        "marcador1": "2",
+        "equipo2": "Inter",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Mainz",
+        "marcador1": "0",
+        "equipo2": "FC Heidenheim",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Nottem Forest",
+        "marcador1": "0",
+        "equipo2": "Fullham",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bayern Munchen",
+        "marcador1": "1",
+        "equipo2": "Leverkusen",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Sociedad",
+        "marcador1": "3",
+        "equipo2": "Valencia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bologna",
+        "marcador1": "1",
+        "equipo2": "Atalanta",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "marcador1": "0",
+        "equipo2": "AD Municipal Liberia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Belgrano",
+        "marcador1": "2",
+        "equipo2": "Boca Juniors",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Cartagines",
+        "marcador1": "1",
+        "equipo2": "AD Guanacasteca",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD FAS",
+        "marcador1": "",
+        "equipo2": "Once Deportivo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "1",
+        "equipo2": "Club Sport Herediano",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sporting FC",
+        "marcador1": "1",
+        "equipo2": "Puntarenas FC",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Juventude",
+        "marcador1": "1",
+        "equipo2": "Red Bull Bragantino",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Man United",
+        "marcador1": "0",
+        "equipo2": "Tottenham",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atletico Madrid",
+        "marcador1": "1",
+        "equipo2": "Real Madrid",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Victoria",
+        "marcador1": "3",
+        "equipo2": "CD Marathon",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "marcador1": "2",
+        "equipo2": "LD Alajuelense",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tolima",
+        "marcador1": "0",
+        "equipo2": "Santa Fe",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Comunicaciones FC",
+        "marcador1": "1",
+        "equipo2": "CSD Municipal",
+        "marcador2": "2",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 19",
+    [
+      {
+        "equipo1": "Arsenal",
+        "marcador1": "2",
+        "equipo2": "PSG",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Leverkusen",
+        "marcador1": "1",
+        "equipo2": "Milan",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Dortmund",
+        "marcador1": "7",
+        "equipo2": "Celtic",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "PSV Eindhoven",
+        "marcador1": "1",
+        "equipo2": "Sporting CP",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "0",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Aston Villa",
+        "marcador1": "1",
+        "equipo2": "Bayern Munchen",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Benfica",
+        "marcador1": "4",
+        "equipo2": "Atletico Madrid",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Lille",
+        "marcador1": "1",
+        "equipo2": "Real Madrid",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sturm Graz",
+        "marcador1": "0",
+        "equipo2": "Club Brugge",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Aguila",
+        "marcador1": "0",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "marcador1": "",
+        "equipo2": "Santos de Guapiles",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "0",
+        "equipo2": "FC Motagua",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Olympiacos",
+        "marcador1": "3",
+        "equipo2": "Braga",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Slavia Prague",
+        "marcador1": "1",
+        "equipo2": "Ajax",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletic Club",
+        "marcador1": "2",
+        "equipo2": "AZ Alkmaar",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Porto",
+        "marcador1": "3",
+        "equipo2": "Man United",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Twente",
+        "marcador1": "1",
+        "equipo2": "Fenerbahce",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "PAOK Thessaloniki FC",
+        "marcador1": "0",
+        "equipo2": "FCSB",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Rangers",
+        "marcador1": "1",
+        "equipo2": "Lyon",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "marcador1": "1",
+        "equipo2": "Comunicaciones FC",
+        "marcador2": "1",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 20",
+    [
+      {
+        "equipo1": "Mazatlan",
+        "marcador1": "2",
+        "equipo2": "Queretaro",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Liberia",
+        "marcador1": "2",
+        "equipo2": "Santa Ana",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Aguila",
+        "marcador1": "1",
+        "equipo2": "Isidro Metapan",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Platense",
+        "marcador1": "0",
+        "equipo2": "CD Dragon",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Municipal Limeño",
+        "marcador1": "0",
+        "equipo2": "Once Deportivo",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "ADG",
+        "marcador1": "1",
+        "equipo2": "Perez Zeledon",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bahia",
+        "marcador1": "0",
+        "equipo2": "Flamengo",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Olancho F.C",
+        "marcador1": "4",
+        "equipo2": "Lobos UPNFM",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos",
+        "marcador1": "2",
+        "equipo2": "Sporting FC",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Arabe Unido",
+        "marcador1": "0",
+        "equipo2": "San Miguelito",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Real Sociedad",
+        "marcador1": "1",
+        "equipo2": "Juticalpa",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Heredia",
+        "marcador1": "0",
+        "equipo2": "Cartago",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Go Ahead Eagles",
+        "marcador1": "4",
+        "equipo2": "Heracles",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Stade Brestois",
+        "marcador1": "2",
+        "equipo2": "Le Havre",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Strasbourg",
+        "marcador1": "2",
+        "equipo2": "Lens",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bristol",
+        "marcador1": "3",
+        "equipo2": "Tottenham",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos",
+        "marcador1": "1",
+        "equipo2": "LDA",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa",
+        "marcador1": "2",
+        "equipo2": "PFC",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Motagua",
+        "marcador1": "0",
+        "equipo2": "Real España",
+        "marcador2": "4",
+        "comodin": true
+      },
+      {
+        "equipo1": "Marathon",
+        "marcador1": "0",
+        "equipo2": "Olimpia",
+        "marcador2": "0",
+        "comodin": true
+      }
+    ]
+  ],
+  [
+    "Jornada 21",
+    [
+      {
+        "equipo1": "British Virgini Island",
+        "marcador1": "1",
+        "equipo2": "San Cristobal Nieves",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Islas Virgenes",
+        "marcador1": "0",
+        "equipo2": "Barbados",
+        "marcador2": "5",
+        "comodin": false
+      },
+      {
+        "equipo1": "Anguila",
+        "marcador1": "0",
+        "equipo2": "Belice",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nueva Caledonia",
+        "marcador1": "3",
+        "equipo2": "Papua Nueva Guinea",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "LDA",
+        "marcador1": "0",
+        "equipo2": "Santos",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Australia",
+        "marcador1": "3",
+        "equipo2": "China",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Uzbekistan",
+        "marcador1": "0",
+        "equipo2": "Iran",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Jordania",
+        "marcador1": "0",
+        "equipo2": "Corea del Sur",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ghana",
+        "marcador1": "0",
+        "equipo2": "Sudan",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "DR Congo",
+        "marcador1": "1",
+        "equipo2": "Tanzania",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Letonia",
+        "marcador1": "0",
+        "equipo2": "Macedonia del Norte",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Emiratos Arabes Unidos",
+        "marcador1": "1",
+        "equipo2": "Corea del Norte",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Arabia Saudita",
+        "marcador1": "0",
+        "equipo2": "Japon",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Italia",
+        "marcador1": "2",
+        "equipo2": "Belgica",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inglaterra",
+        "marcador1": "1",
+        "equipo2": "Grecia",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Finlandia",
+        "marcador1": "1",
+        "equipo2": "Irlanda",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Austria",
+        "marcador1": "4",
+        "equipo2": "Kazajistan",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Noruega",
+        "marcador1": "3",
+        "equipo2": "Eslovenia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Gibraltar",
+        "marcador1": "1",
+        "equipo2": "San Marino",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "French Guiana",
+        "marcador1": "2",
+        "equipo2": "Honduras",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cuba",
+        "marcador1": "2",
+        "equipo2": "Trinidad y Tobago",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bonaire",
+        "marcador1": "0",
+        "equipo2": "Monserrat",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Bolivia",
+        "marcador1": "1",
+        "equipo2": "Colombia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ecuador",
+        "marcador1": "0",
+        "equipo2": "Paraguay",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "PFC",
+        "marcador1": "1",
+        "equipo2": "Guadalupe",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Islas Salomon",
+        "marcador1": "0",
+        "equipo2": "Fiyi",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Namibia",
+        "marcador1": "0",
+        "equipo2": "Zimbabue",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Oman",
+        "marcador1": "4",
+        "equipo2": "Kuwait",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bukina Faso",
+        "marcador1": "4",
+        "equipo2": "Burundi",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nicaragua",
+        "marcador1": "0",
+        "equipo2": "Jamaica",
+        "marcador2": "2",
+        "comodin": true
+      }
+    ]
+  ],
+  [
+    "jornada 22",
+    [
+      {
+        "equipo1": "🇬🇶Guinea ecuatorial",
+        "marcador1": "1",
+        "equipo2": "🇱🇷Liberia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇿🇲Zambia",
+        "marcador1": "0",
+        "equipo2": "🇷🇴Chad",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇬Madagascar",
+        "marcador1": "1",
+        "equipo2": "🇬🇲Gambia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇯Benin",
+        "marcador1": "3",
+        "equipo2": "🇷🇼Ruanda",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇳🇬Nigeria",
+        "marcador1": "1",
+        "equipo2": "🇱🇾Libia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇲Camerun",
+        "marcador1": "4",
+        "equipo2": "🇰🇪Kenia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇿🇦Sudáfrica",
+        "marcador1": "5",
+        "equipo2": "🇨🇬Congo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇿Chequia",
+        "marcador1": "2",
+        "equipo2": "🇦🇱Albania",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇺🇦Ucrania",
+        "marcador1": "1",
+        "equipo2": "🇬🇪Georgia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇮🇸Islandia",
+        "marcador1": "2",
+        "equipo2": "🏴󠁧󠁢󠁷󠁬󠁳󠁿Gales",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇵🇭Eslovaquia",
+        "marcador1": "2",
+        "equipo2": "🇸🇪Suecia",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇳Tunez",
+        "marcador1": "0",
+        "equipo2": "🇰🇲Comoros",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇦Gabon",
+        "marcador1": "0",
+        "equipo2": "🇱🇸Lesotho",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇱Mali",
+        "marcador1": "1",
+        "equipo2": "🇬🇼Guinea Bissau",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇫🇷Guadalupe",
+        "marcador1": "0",
+        "equipo2": "🇲🇶Martinica",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇽 Sain marteen",
+        "marcador1": "3",
+        "equipo2": "🇵🇷Puerto rico",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇧🇴Granada",
+        "marcador1": "0",
+        "equipo2": "🇨🇼Curacao",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇷Surinam",
+        "marcador1": "1",
+        "equipo2": "🇨🇷Costa rica",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇾Guyana",
+        "marcador1": "1",
+        "equipo2": "🇬🇹Guatemala",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇻🇺Vanuatu",
+        "marcador1": "4",
+        "equipo2": "🇹🇼Samoa",
+        "marcador2": "1",
+        "comodin": true
+      }
+    ]
+  ],
+  [
+    "jornada 23",
+    [
+      {
+        "equipo1": "🇱🇹Lituania",
+        "marcador1": "1",
+        "equipo2": "🇽🇰Kósovo",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇳Guinea",
+        "marcador1": "4",
+        "equipo2": "🇪🇹Etiopía",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇭🇷Croacia",
+        "marcador1": "2",
+        "equipo2": "🏴󠁧󠁢󠁳󠁣󠁴󠁿Escocia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇬Bulgaria",
+        "marcador1": "0",
+        "equipo2": "🇱🇺Luxemburgo",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇦🇬Antigua Bermuda",
+        "marcador1": "0",
+        "equipo2": "🇩🇴República Dominicana",
+        "marcador2": "5",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇨Polonia",
+        "marcador1": "1",
+        "equipo2": "🇵🇹Portugal",
+        "marcador2": "3",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇷🇸Serbia",
+        "marcador1": "2",
+        "equipo2": "🇨🇭Suiza",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇪🇦España",
+        "marcador1": "1",
+        "equipo2": "🇩🇰Dinamarca",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇾Chipre",
+        "marcador1": "0",
+        "equipo2": "🇷🇴Rumania",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇾Bielorrusia",
+        "marcador1": "0",
+        "equipo2": "🇬🇬Irlanda del norte",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇦Marruecos",
+        "marcador1": "5",
+        "equipo2": "🇨🇫República centroafricana",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇦Islas caimán",
+        "marcador1": "1",
+        "equipo2": "🇻🇬BRITHISH islas virgen",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇩🇲Dominica",
+        "marcador1": "1",
+        "equipo2": "🇧🇲Bermudas",
+        "marcador2": "6",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇧🇸Bahamas",
+        "marcador1": "3",
+        "equipo2": "🇻🇮Islas vírgenes",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇺🇲EEUU",
+        "marcador1": "1",
+        "equipo2": "🇵🇦Panama",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇭Islas turcas",
+        "marcador1": "2",
+        "equipo2": "🇦🇮Anguila",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "ADG",
+        "marcador1": "2",
+        "equipo2": "Santos",
+        "marcador2": "1",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 24",
+    [
+      {
+        "equipo1": "🇲🇲Birmania",
+        "marcador1": "0",
+        "equipo2": "🇱🇰Siria lanka",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇰🇿Kazajistán",
+        "marcador1": "0",
+        "equipo2": "🇸🇮Eslovenia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇩Andorra",
+        "marcador1": "2",
+        "equipo2": "🇸🇲San Marino",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇮Burundi",
+        "marcador1": "0",
+        "equipo2": "🇧🇫BUKINA faso",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇫🇮FIRLANDIA",
+        "marcador1": "1",
+        "equipo2": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Inglaterra",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇦🇲Armenia",
+        "marcador1": "0",
+        "equipo2": "🇲🇰Macedonia del norte",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇭🇹Liechtenstein",
+        "marcador1": "0",
+        "equipo2": "🇬🇮Gibraltar",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇲🇹Malta",
+        "marcador1": "1",
+        "equipo2": "🇲🇩Moldavia",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇷Grecia",
+        "marcador1": "2",
+        "equipo2": "🇮🇪Irlanda",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇦🇹Austria",
+        "marcador1": "5",
+        "equipo2": "🇧🇻Noruega",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇫🇴Islas feroe",
+        "marcador1": "1",
+        "equipo2": "🇲🇹Letonia",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇭Monserrat",
+        "marcador1": "0",
+        "equipo2": "🇧🇶BONAIRE",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇸🇻El salvador",
+        "marcador1": "1",
+        "equipo2": "🇻🇨San Vicente granadinas",
+        "marcador2": "2",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 25",
+    [
+      {
+        "equipo1": "🇰🇪Kenia",
+        "marcador1": "0",
+        "equipo2": "🇨🇲Camerún",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇪Belgica",
+        "marcador1": "1",
+        "equipo2": "🇨🇵Francia",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇮🇸Irlanda",
+        "marcador1": "2",
+        "equipo2": "🇹🇷Turquía",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇼Curazao",
+        "marcador1": "1",
+        "equipo2": "🇬🇳Granada",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇵🇷Puerto rico",
+        "marcador1": "2",
+        "equipo2": "🇵🇭Saint marteen",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇯🇲Jamaica",
+        "marcador1": "",
+        "equipo2": "🇭🇳 Honduras",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇳🇮Nicaragua",
+        "marcador1": "",
+        "equipo2": "🇬🇫FRENCH guiana",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇨🇺Cuba",
+        "marcador1": "",
+        "equipo2": "🇹🇹Trinidad y Tobago",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇯🇵Japon",
+        "marcador1": "",
+        "equipo2": "🇦🇺Australia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇰🇷Corea del sur",
+        "marcador1": "",
+        "equipo2": "🇮🇶Irak",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇳China",
+        "marcador1": "",
+        "equipo2": "🇲🇹Indonesia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇩Sudan",
+        "marcador1": "",
+        "equipo2": "🇸🇳Ghana",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇿Tanzania",
+        "marcador1": "",
+        "equipo2": "🇦🇼 DR congo",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇺🇿Uzbekistán",
+        "marcador1": "",
+        "equipo2": "🇸🇩Emiratos Árabes",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇼Botsuana",
+        "marcador1": "",
+        "equipo2": "🇳🇷Cabo verde",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇷🇼Ruanda",
+        "marcador1": "",
+        "equipo2": "🇧🇯Benín",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇮🇷Iran",
+        "marcador1": "",
+        "equipo2": "🇶🇦Catar",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇯🇴Jordania",
+        "marcador1": "",
+        "equipo2": "🇴🇲Oman",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇦Arabia Saudita",
+        "marcador1": "",
+        "equipo2": "🇧🇭Baréin",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇨Polonia",
+        "marcador1": "",
+        "equipo2": "🇭🇷Croacia",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇬🇺Kosovo",
+        "marcador1": "",
+        "equipo2": "🇨🇾Chipre",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇬Irlanda del norte",
+        "marcador1": "",
+        "equipo2": "🇧🇬Bulgaria",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇰🇲Comoros",
+        "marcador1": "",
+        "equipo2": "🇹🇳Tunes",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇵🇾Paraguay",
+        "marcador1": "",
+        "equipo2": "🇻🇪Venezuela",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇲Bermudas",
+        "marcador1": "",
+        "equipo2": "🇩🇲Dominicana",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇺🇾Uruguay",
+        "marcador1": "",
+        "equipo2": "🇪🇨Ecuador",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇨🇷Cr",
+        "marcador1": "",
+        "equipo2": "🇬🇹Guatemala",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇶Martinica",
+        "marcador1": "",
+        "equipo2": "🇫🇷Guadalupe",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇷Surinam",
+        "marcador1": "",
+        "equipo2": "🇬🇾Guyana",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇩🇪Alemania",
+        "marcador1": "",
+        "equipo2": "🇱🇺Países bajos",
+        "marcador2": "",
+        "comodin": true
+      }
+    ]
   ]
 ]
