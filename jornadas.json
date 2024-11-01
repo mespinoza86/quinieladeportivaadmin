@@ -2093,7 +2093,7 @@
         "comodin": true
       }
     ]
-  ],    
+  ],
   [
     "jornada 22",
     [
@@ -2513,5 +2513,565 @@
         "comodin": true
       }
     ]
-  ]  
-]      
+  ],
+  [
+    "Jornada 26",
+    [
+      {
+        "equipo1": "Municipal Perez Zeledon",
+        "equipo2": "Santos de Guapiles",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD Alajuelense",
+        "equipo2": "AD Municipal Liberia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas",
+        "equipo2": "Club Sport Herediano",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Cartagines",
+        "equipo2": "Deportivo San Carlos",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sporting FC",
+        "equipo2": "Santa Ana FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Guanacasteca",
+        "equipo2": "Deportivo Saprissa",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 27",
+    [
+      {
+        "equipo1": "Juventus ⚫⚪",
+        "equipo2": "Lazio🩵🤍",
+        "comodin": false
+      },
+      {
+        "equipo1": "Vasco de gama ⚪⚫",
+        "equipo2": "Atlético MG ⚫⚪",
+        "comodin": true
+      },
+      {
+        "equipo1": "Chicago🩵❤️",
+        "equipo2": "NASHVILLE 🟡⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Philadelfia 🔵⚫",
+        "equipo2": "Cincinnati 🔵🟠",
+        "comodin": false
+      },
+      {
+        "equipo1": "Liberia ⚫🟡",
+        "equipo2": "Pfc🟠⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Juarez 🟢⚫",
+        "equipo2": "Leon🟢⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Heredia 🟡🔴",
+        "equipo2": "LDA❤️🖤",
+        "comodin": true
+      },
+      {
+        "equipo1": "Monterrey 🔵⚪",
+        "equipo2": "Tigres🔵🟡",
+        "comodin": false
+      },
+      {
+        "equipo1": "Mallorca 🔴🟡",
+        "equipo2": "Rayo vallecano 🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nantes🟡🟢",
+        "equipo2": "Nice🔴⚫",
+        "comodin": true
+      },
+      {
+        "equipo1": "Wollfsburg🟢⚪",
+        "equipo2": "Werder bremen⚪🟢",
+        "comodin": true
+      },
+      {
+        "equipo1": "Liverpool 🔴",
+        "equipo2": "Chelsea 🔵",
+        "comodin": false
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "equipo2": "San Luis 🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Roma 🟠🔴",
+        "equipo2": "Inter 🔵⚪",
+        "comodin": true
+      },
+      {
+        "equipo1": "Corintias ⚪⚫",
+        "equipo2": "Flamengo⚫🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos 🔴⚪",
+        "equipo2": "ADG🟢🔴",
+        "comodin": true
+      },
+      {
+        "equipo1": "ALIANZA FC⚪🔵",
+        "equipo2": "Once deportivo🟡⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "equipo2": "Sporting ⚪⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos ❤️💙",
+        "equipo2": "PZ🔵⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santa ana🔵⚪",
+        "equipo2": "Cartago ⚪🔵",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 28",
+    [
+      {
+        "equipo1": "Girona",
+        "equipo2": "Slovan Bratislava",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Madrid",
+        "equipo2": "Dortmund",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "equipo2": "CD Aguila",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atletico MG",
+        "equipo2": "River Plate",
+        "comodin": true
+      },
+      {
+        "equipo1": "Antigua Guatemala",
+        "equipo2": "LD Alajuelense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Braga",
+        "equipo2": "Bodo/Glimt",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atalanta",
+        "equipo2": "Celtic",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atletico Madrid",
+        "equipo2": "Lille",
+        "comodin": false
+      },
+      {
+        "equipo1": "Barcelona",
+        "equipo2": "Bayern Munchen",
+        "comodin": true
+      },
+      {
+        "equipo1": "Salzburg",
+        "equipo2": "Dinamo Zagreb",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "equipo2": "Lanus",
+        "comodin": true
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Peñarol",
+        "comodin": false
+      },
+      {
+        "equipo1": "Comunicaciones FC",
+        "equipo2": "Deportivo Saprissa",
+        "comodin": false
+      },
+      {
+        "equipo1": "PAOK Thessaloniki FC",
+        "equipo2": "Viktoria Plze",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletic Club",
+        "equipo2": "Slavia Prague",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Twente",
+        "equipo2": "Lazio",
+        "comodin": false
+      },
+      {
+        "equipo1": "Rangers",
+        "equipo2": "FCSB",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tottenham",
+        "equipo2": "AZ Alkmaar",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "equipo2": "Racing Club",
+        "comodin": true
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "equipo2": "Club Sport Herediano",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 29",
+    [
+      {
+        "equipo1": "PUNTARENAS FC",
+        "equipo2": "SANTOS DE GUAPILES",
+        "comodin": false
+      },
+      {
+        "equipo1": "PEREZ ZELEDON",
+        "equipo2": "SANTA ANA",
+        "comodin": false
+      },
+      {
+        "equipo1": "REAL MADRID",
+        "equipo2": "BARCELONA",
+        "comodin": true
+      },
+      {
+        "equipo1": "LENS",
+        "equipo2": "LILE",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD UNIVERSITARIO",
+        "equipo2": "INDEPENDIENTE DE LA CHORRERA",
+        "comodin": true
+      },
+      {
+        "equipo1": "SAN FRANCISCO FC",
+        "equipo2": "HERRERA FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "UMECIT FC",
+        "equipo2": "VERAGUAS UNITED",
+        "comodin": false
+      },
+      {
+        "equipo1": "INDEPENDIENTE",
+        "equipo2": "GODOY CRUZ",
+        "comodin": false
+      },
+      {
+        "equipo1": "CARTAGINÉS",
+        "equipo2": "SAPRISSA",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC MOTAGUA",
+        "equipo2": "CD OLIMPIA",
+        "comodin": false
+      },
+      {
+        "equipo1": "INDEPENDIENTE RIVADAVIA",
+        "equipo2": "SAN LORENZO",
+        "comodin": false
+      },
+      {
+        "equipo1": "ALAJÚELENSE",
+        "equipo2": "SAN CARLOS",
+        "comodin": true
+      },
+      {
+        "equipo1": "UNIÓN BERLÍN",
+        "equipo2": "FRANKFURT",
+        "comodin": false
+      },
+      {
+        "equipo1": "ARSENAL",
+        "equipo2": "LIVERPOOL",
+        "comodin": false
+      },
+      {
+        "equipo1": "INTER",
+        "equipo2": "JUVENTUS",
+        "comodin": false
+      },
+      {
+        "equipo1": "CLUB ATLÉTICO PLATENSE",
+        "equipo2": "ARGENTINO JUNIORS",
+        "comodin": false
+      },
+      {
+        "equipo1": "FIORENTINA",
+        "equipo2": "ROMA",
+        "comodin": true
+      },
+      {
+        "equipo1": "AD GUANACASTECA",
+        "equipo2": "AD LIBERIA",
+        "comodin": false
+      },
+      {
+        "equipo1": "SPORTING",
+        "equipo2": "HEREDIA",
+        "comodin": false
+      },
+      {
+        "equipo1": "AMERICA",
+        "equipo2": "MONTERREY",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 30",
+    [
+      {
+        "equipo1": "Cagliari 🇮🇹",
+        "equipo2": "Bologna🇮🇹",
+        "comodin": false
+      },
+      {
+        "equipo1": "Milan",
+        "equipo2": "Napoli",
+        "comodin": true
+      },
+      {
+        "equipo1": "Columbus",
+        "equipo2": "NY Red bulls",
+        "comodin": false
+      },
+      {
+        "equipo1": "River place",
+        "equipo2": "Atlético MG",
+        "comodin": true
+      },
+      {
+        "equipo1": "Salt lake 🇺🇲",
+        "equipo2": "Minnesota 🇺🇲",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprisa",
+        "equipo2": "Comunicaciones",
+        "comodin": false
+      },
+      {
+        "equipo1": "FEYENOORD",
+        "equipo2": "Ajax",
+        "comodin": false
+      },
+      {
+        "equipo1": "Brigthon",
+        "equipo2": "Liverpool",
+        "comodin": false
+      },
+      {
+        "equipo1": "Aston Villa",
+        "equipo2": "Crystal palace",
+        "comodin": false
+      },
+      {
+        "equipo1": "Newcastle",
+        "equipo2": "Chelsea",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tottenham",
+        "equipo2": "Man city",
+        "comodin": false
+      },
+      {
+        "equipo1": "Lanus",
+        "equipo2": "Cruceiro",
+        "comodin": true
+      },
+      {
+        "equipo1": "Internacional 🇧🇷",
+        "equipo2": "Flamenco 🇧🇷",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD AGUILA",
+        "equipo2": "FC MOTAGUA",
+        "comodin": false
+      },
+      {
+        "equipo1": "Peñarol",
+        "equipo2": "Botafogo",
+        "comodin": false
+      },
+      {
+        "equipo1": "LD ALAJÚELENSE",
+        "equipo2": "Antigua Guatemala",
+        "comodin": false
+      },
+      {
+        "equipo1": "Roma",
+        "equipo2": "Torino",
+        "comodin": false
+      },
+      {
+        "equipo1": "Godoy Cruz 🇦🇷",
+        "equipo2": "Atlético tucuman 🇦🇷",
+        "comodin": false
+      },
+      {
+        "equipo1": "Raicing club",
+        "equipo2": "Corinthians",
+        "comodin": true
+      },
+      {
+        "equipo1": "Heredia",
+        "equipo2": "Real estelí",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 31",
+    [
+      {
+        "equipo1": "Queretaro",
+        "equipo2": "Juarez",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportiva San Carlos",
+        "equipo2": "AD Guanacasteca",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "equipo2": "Sporting FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Girona",
+        "equipo2": "Leganes",
+        "comodin": false
+      },
+      {
+        "equipo1": "Udinese",
+        "equipo2": "Juventus",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ajax",
+        "equipo2": "PSV Eindhoven",
+        "comodin": true
+      },
+      {
+        "equipo1": "Brest",
+        "equipo2": "Nice",
+        "comodin": false
+      },
+      {
+        "equipo1": "Feyenoord",
+        "equipo2": "AZ Alkmaar",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "equipo2": "C.S. Cartagines",
+        "comodin": false
+      },
+      {
+        "equipo1": "Chivas",
+        "equipo2": "Universidad Nacional",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "equipo2": "LD Alajuelense",
+        "comodin": true
+      },
+      {
+        "equipo1": "NEC Nijmegen",
+        "equipo2": "FC Groningen",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester United",
+        "equipo2": "Chelsea",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "equipo2": "Puntarenas FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Hellas Verona",
+        "equipo2": "Roma",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sevilla",
+        "equipo2": "Real Sociedad",
+        "comodin": false
+      },
+      {
+        "equipo1": "Flamengo",
+        "equipo2": "Atletico MG",
+        "comodin": true
+      },
+      {
+        "equipo1": "Athletic Club",
+        "equipo2": "Real Betis",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigre",
+        "equipo2": "Club Atletico Platense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "equipo2": "Municipal Perez Zeledon",
+        "comodin": false
+      }
+    ]
+  ]
+]
