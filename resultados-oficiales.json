@@ -4090,9 +4090,154 @@
       },
       {
         "equipo1": "Heredia",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Real estelí",
-        "marcador2": "",
+        "marcador2": "2",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 31",
+    [
+      {
+        "equipo1": "Queretaro",
+        "marcador1": "1",
+        "equipo2": "Juarez",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportiva San Carlos",
+        "marcador1": "2",
+        "equipo2": "AD Guanacasteca",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD Municipal Liberia",
+        "marcador1": "1",
+        "equipo2": "Sporting FC",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Girona",
+        "marcador1": "4",
+        "equipo2": "Leganes",
+        "marcador2": "3",
+        "comodin": false
+      },
+      {
+        "equipo1": "Udinese",
+        "marcador1": "0",
+        "equipo2": "Juventus",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ajax",
+        "marcador1": "3",
+        "equipo2": "PSV Eindhoven",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Brest",
+        "marcador1": "0",
+        "equipo2": "Nice",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Feyenoord",
+        "marcador1": "3",
+        "equipo2": "AZ Alkmaar",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles",
+        "marcador1": "1",
+        "equipo2": "C.S. Cartagines",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Chivas",
+        "marcador1": "0",
+        "equipo2": "Universidad Nacional",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa",
+        "marcador1": "3",
+        "equipo2": "LD Alajuelense",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "NEC Nijmegen",
+        "marcador1": "6",
+        "equipo2": "FC Groningen",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester United",
+        "marcador1": "1",
+        "equipo2": "Chelsea",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santa Ana FC",
+        "marcador1": "1",
+        "equipo2": "Puntarenas FC",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Hellas Verona",
+        "marcador1": "3",
+        "equipo2": "Roma",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sevilla",
+        "marcador1": "0",
+        "equipo2": "Real Sociedad",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Flamengo",
+        "marcador1": "3",
+        "equipo2": "Atletico MG",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Athletic Club",
+        "marcador1": "1",
+        "equipo2": "Real Betis",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigre",
+        "marcador1": "0",
+        "equipo2": "Club Atletico Platense",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Club Sport Herediano",
+        "marcador1": "4",
+        "equipo2": "Municipal Perez Zeledon",
+        "marcador2": "1",
         "comodin": false
       }
     ]
