@@ -350,6 +350,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             
     // Cargar equipos y jornadas al iniciar
     await cargarEquipos();
+<<<<<<< HEAD
+=======
     loadJornadas();
 
     // Agregar autocompletado a los inputs de equipo
@@ -358,3 +360,165 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 
+
+
+/*document.addEventListener('DOMContentLoaded', () => {
+    const equipo1Input = document.getElementById('equipo1Input');
+    const equipo2Input = document.getElementById('equipo2Input');
+    const comodinCheckbox = document.getElementById('comodinCheckbox');
+    const addPartidoButton = document.getElementById('addPartidoButton');
+    const finalizarJornadaButton = document.getElementById('finalizarJornadaButton');
+    const jornadaSelect = document.getElementById('jornadaSelect');
+    const partidosJornadaList = document.getElementById('partidosJornadaList');
+    const modificarJornadaSelect = document.getElementById('modificarJornadaSelect');
+    const partidosModificarList = document.getElementById('partidosModificarList');
+    const eliminarPartidosButton = document.getElementById('eliminarPartidosButton');
+    const modificarJornadaControls = document.getElementById('modificarJornadaControls');
+    const modificarEquipo1Input = document.getElementById('modificarEquipo1Input');
+    const modificarEquipo2Input = document.getElementById('modificarEquipo2Input');
+    const agregarPartidoButton = document.getElementById('agregarPartidoButton');
+    const modificarComodinCheckbox = document.getElementById('modificarComodinSelect');
+
+    let currentPartidos = [];
+    let jornadas = new Map();
+    let jornadaActualParaModificar = '';
+
+    function loadJornadas() {
+        fetch('/api/jornadas')
+            .then(response => response.json())
+            .then(data => {
+                jornadas = new Map(data);
+                updateJornadaSelect();
+                updateJornadaPartidos();
+            });
+    }
+
+    function updatePartidosList() {
+        const ul = document.getElementById('partidosList');
+        ul.innerHTML = '';
+        currentPartidos.forEach((partido, index) => {
+            const li = document.createElement('li');
+
+            // Crear campo de texto para equipo1
+            const equipo1Input = document.createElement('input');
+            equipo1Input.type = 'text';
+            equipo1Input.value = partido.equipo1;
+            equipo1Input.addEventListener('input', () => {
+                currentPartidos[index].equipo1 = equipo1Input.value;
+            });
+
+            // Crear campo de texto para equipo2
+            const equipo2Input = document.createElement('input');
+            equipo2Input.type = 'text';
+            equipo2Input.value = partido.equipo2;
+            equipo2Input.addEventListener('input', () => {
+                currentPartidos[index].equipo2 = equipo2Input.value;
+            });
+
+            // Comodín checkbox
+            const comodinCheckbox = document.createElement('input');
+            comodinCheckbox.type = 'checkbox';
+            comodinCheckbox.checked = partido.comodin;
+            comodinCheckbox.addEventListener('change', () => {
+                currentPartidos[index].comodin = comodinCheckbox.checked;
+            });
+
+            const vsLabel = document.createElement('span');
+            vsLabel.textContent = ' vs ';
+
+            li.appendChild(equipo1Input);
+            li.appendChild(vsLabel);
+            li.appendChild(equipo2Input);
+
+            // Añadir el checkbox de comodín y su etiqueta
+            const comodinLabel = document.createElement('label');
+            comodinLabel.textContent = 'Comodín';
+            li.appendChild(comodinLabel);
+            li.appendChild(comodinCheckbox);
+
+            ul.appendChild(li);
+        });
+    }
+
+    function updateJornadaSelect() {
+        jornadaSelect.innerHTML = '<option value="">Selecciona una jornada</option>';
+        modificarJornadaSelect.innerHTML = '<option value="">Selecciona una jornada</option>';
+        jornadas.forEach((_, key) => {
+            const option = document.createElement('option');
+            option.value = key;
+            option.textContent = key;
+            jornadaSelect.appendChild(option);
+
+            const optionCopy = option.cloneNode(true);
+            modificarJornadaSelect.appendChild(optionCopy);
+        });
+    }
+
+    function updateJornadaPartidos() {
+        const selectedJornada = jornadaSelect.value;
+        if (selectedJornada) {
+            fetch(`/api/jornadas/${selectedJornada}`)
+                .then(response => response.json())
+                .then(partidos => {
+                    partidosJornadaList.innerHTML = '';
+                    partidos.forEach(partido => {
+                        const li = document.createElement('li');
+                        li.textContent = `${partido.equipo1} vs ${partido.equipo2}`;
+                        if (partido.comodin) {
+                            li.textContent += ' (Comodín)';
+                        }
+                        partidosJornadaList.appendChild(li);
+                    });
+                });
+        }
+    }
+
+    addPartidoButton.addEventListener('click', () => {
+        const equipo1 = equipo1Input.value.trim();
+        const equipo2 = equipo2Input.value.trim();
+        const comodin = comodinCheckbox.checked;
+
+        if (equipo1 && equipo2) {
+            currentPartidos.push({ equipo1, equipo2, comodin });
+            updatePartidosList();
+            equipo1Input.value = '';
+            equipo2Input.value = '';
+            comodinCheckbox.checked = false;
+        }
+    });
+
+    finalizarJornadaButton.addEventListener('click', () => {
+        if (currentPartidos.length > 0) {
+            const nombreJornada = prompt('Ingrese el nombre de la jornada:');
+            if (nombreJornada && !jornadas.has(nombreJornada)) {
+                jornadas.set(nombreJornada, [...currentPartidos]);
+                fetch('/api/jornadas', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ nombre: nombreJornada, partidos: currentPartidos })
+                })
+                .then(() => {
+                    currentPartidos = [];
+                    updatePartidosList();
+                    loadJornadas();
+                });
+            }
+        } else {
+            alert('No hay partidos para agregar a la jornada.');
+        }
+    });
+
+    jornadaSelect.addEventListener('change', updateJornadaPartidos);
+>>>>>>> ec6ec4457c9d591874aa7781c128e9c41ca5eafb
+    loadJornadas();
+
+    // Agregar autocompletado a los inputs de equipo
+    equipo1Input.addEventListener('input', () => autocompleteEquipo(equipo1Input, 'suggestions1'));
+    equipo2Input.addEventListener('input', () => autocompleteEquipo(equipo2Input, 'suggestions2'));
+});
+
+<<<<<<< HEAD
+
+=======
+*/
+>>>>>>> ec6ec4457c9d591874aa7781c128e9c41ca5eafb
