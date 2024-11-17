@@ -108,7 +108,23 @@ app.get('/js/ver_resultados_totales_de_jugadores.js', (req, res) => {
     res.sendFile(path.join(__dirname, 'js', 'ver_resultados_totales_de_jugadores.js'));
   });
 
-  
+
+
+// Ruta para actualizar el archivo equipos.json
+app.post('/actualizar-equipos', (req, res) => {
+    const equipos = req.body.equipos;
+    
+    fs.writeFile('equipos.json', JSON.stringify(equipos, null, 2), (err) => {
+        if (err) {
+            console.error("Error al escribir en equipos.json:", err);
+            res.status(500).json({ error: "No se pudo guardar el equipo" });
+        } else {
+            res.status(200).json({ message: "Equipo guardado correctamente" });
+        }
+    });
+});
+
+
 
 // Cargar jugadores desde archivo JSON
 function loadJugadores() {

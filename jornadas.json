@@ -3073,5 +3073,685 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada 32",
+    [
+      {
+        "equipo1": "Lille",
+        "equipo2": "Juventus ⚫⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Liverpool 🔴",
+        "equipo2": "Leverkusen",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Madrid",
+        "equipo2": "Milan",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Vasco de gama ⚪⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Cartago ⚪🔵",
+        "equipo2": "A.D. Liberia ⚫🟡",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter 🔵⚪",
+        "equipo2": "Arsenal",
+        "comodin": false
+      },
+      {
+        "equipo1": "PSG",
+        "equipo2": "Atletico Madrid",
+        "comodin": true
+      },
+      {
+        "equipo1": "AD Guanacasteca 🟢🔴",
+        "equipo2": "Puntarenas FC🟠⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "AD San Carlos ❤️💙",
+        "equipo2": "C.S. Herediano 🟡🔴",
+        "comodin": true
+      },
+      {
+        "equipo1": "Liga Deportiva Alajuelense❤️🖤",
+        "equipo2": "Sporting FC ⚪⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Frankfurt",
+        "equipo2": "Slavia Prague",
+        "comodin": false
+      },
+      {
+        "equipo1": "Elfsborg",
+        "equipo2": "Braga",
+        "comodin": true
+      },
+      {
+        "equipo1": "Galatasaray",
+        "equipo2": "Tottenham",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nice🔴⚫",
+        "equipo2": "FC Twente",
+        "comodin": false
+      },
+      {
+        "equipo1": "Olympiakos",
+        "equipo2": "Rangers",
+        "comodin": true
+      },
+      {
+        "equipo1": "AZ Alkmaar",
+        "equipo2": "Fenerbahce",
+        "comodin": false
+      },
+      {
+        "equipo1": "Lazio🩵🤍",
+        "equipo2": "FC Porto",
+        "comodin": false
+      },
+      {
+        "equipo1": "Victoria Plzen",
+        "equipo2": "CD Real Sociedad",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos de Guapiles 🔴⚪",
+        "equipo2": "Santa Ana🔵⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Perez Zeledon 🔵⚪",
+        "equipo2": "Deportivo Saprissa 🟣⚪",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "jornada 33",
+    [
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "NYCFC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Rosario Central",
+        "equipo2": "San Lorenzo",
+        "comodin": true
+      },
+      {
+        "equipo1": "A.D. Liberia ⚫🟡",
+        "equipo2": "AD San Carlos ❤️💙",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Universitario",
+        "equipo2": "CD Arabe Unido",
+        "comodin": false
+      },
+      {
+        "equipo1": "Orlando",
+        "equipo2": "Charlolett FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "equipo2": "C.S. Cartago ⚪🔵",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "America",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "Atlanta United",
+        "comodin": false
+      },
+      {
+        "equipo1": "C.S. Herediano 🟡🔴",
+        "equipo2": "AD Guanacasteca 🟢🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "equipo2": "Tigres🔵🟡",
+        "comodin": true
+      },
+      {
+        "equipo1": "Atalanta",
+        "equipo2": "Udinese",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Twente",
+        "equipo2": "Ajax",
+        "comodin": false
+      },
+      {
+        "equipo1": "Rennes",
+        "equipo2": "Toulouse",
+        "comodin": true
+      },
+      {
+        "equipo1": "Chelsea 🔵",
+        "equipo2": "Arsenal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santa Ana🔵⚪",
+        "equipo2": "Liga Deportiva Alajuelense❤️🖤",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlético MG ⚫⚪",
+        "equipo2": "Flamengo⚫🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter 🔵⚪",
+        "equipo2": "Napoli",
+        "comodin": false
+      },
+      {
+        "equipo1": "Deportivo Saprissa 🟣⚪",
+        "equipo2": "Santos de Guapiles 🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Olancho FC",
+        "equipo2": "CD Victoria",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "equipo2": "Perez Zeledon 🔵⚪",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 34",
+    [
+      {
+        "equipo1": "🇱🇷Liberia",
+        "equipo2": "Togo🇹🇬",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇷🇴Chad",
+        "equipo2": "Sierra Leona 🇸🇱",
+        "comodin": false
+      },
+      {
+        "equipo1": "Islas Salomon🇸🇧",
+        "equipo2": "Nueva Caledonia🇫🇷",
+        "comodin": false
+      },
+      {
+        "equipo1": "PAPUA NUEVA Guinea🇵🇬",
+        "equipo2": "Fiyi 🇫🇯",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇦🇺Australia",
+        "equipo2": "🇸🇦Arabia Saudita",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇱🇸Lesotho",
+        "equipo2": "🇨🇫República Centroafricana",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇶Guinea ecuatorial",
+        "equipo2": "Argelia🇩🇿",
+        "comodin": false
+      },
+      {
+        "equipo1": "Kuwait🇰🇼",
+        "equipo2": "🇰🇷Corea del sur",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇭Baréin",
+        "equipo2": "🇨🇳 China",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇴🇲Oman",
+        "equipo2": "Palestina🇵🇸",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇶🇦Catar",
+        "equipo2": "Uzbekistan🇺🇿",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇩Emiratos Árabes",
+        "equipo2": "🇰🇬 Kirguistan",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇮🇶Irak",
+        "equipo2": "🇯🇴Jordania",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇦🇲Armenia",
+        "equipo2": "🇫🇴Islas Feroe",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇯Benin",
+        "equipo2": "🇳🇬Nigeria",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇫BUKINA Faso",
+        "equipo2": "🇸🇳 Senegal",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇪Belgica",
+        "equipo2": "🇮🇹 Italia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇷Grecia",
+        "equipo2": "🏴Inglaterra",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇮🇪Irlandia",
+        "equipo2": "🇫🇮FINLANDIA",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇮Eslovenia",
+        "equipo2": "🇧🇻Noruega",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇰Macedonia del Norte",
+        "equipo2": "🇱🇻Letonia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇭Monserrat",
+        "equipo2": "🇻🇨San Vicente Granadinas",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇻🇪Venezuela",
+        "equipo2": "🇧🇷Brasil",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇰🇳San Cristóbal Nieves",
+        "equipo2": "🇨🇺Cuba",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇵🇾Paraguay",
+        "equipo2": "🇦🇷 Argentina",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇪🇨Ecuador",
+        "equipo2": "🇧🇴Bolivia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇯🇲Jamaica",
+        "equipo2": "🇺🇲EEUU",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇶BONAIRE",
+        "equipo2": "🇸🇻El Salvador",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇿Belice",
+        "equipo2": "🇬🇫FRENCH Guiana",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇷Costa Rica",
+        "equipo2": "🇵🇦Panama",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇼Samoa",
+        "equipo2": "🇹🇭Tahiti",
+        "comodin": true
+      },
+      {
+        "equipo1": "Liberia",
+        "equipo2": "San Carlos",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 35",
+    [
+      {
+        "equipo1": "🇲🇹Indonesia",
+        "equipo2": "🇯🇵Japon",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇼Botswana y",
+        "equipo2": "🇲🇷Mauritania",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇺🇬 Uganda",
+        "equipo2": "🇿🇦Sudáfrica",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇿🇲Zambia",
+        "equipo2": "🇨🇮Cote de Ivoire",
+        "comodin": false
+      },
+      {
+        "equipo1": "Suazilandia 🇸🇿",
+        "equipo2": "🇬🇼Guinea Bissau",
+        "comodin": false
+      },
+      {
+        "equipo1": "Mozambique 🇲🇿",
+        "equipo2": "🇲🇱Mali",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇿🇼 Zimbabue",
+        "equipo2": "🇰🇪Kenia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇾Chipre",
+        "equipo2": "🇱🇹Lituania",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇲Gambia",
+        "equipo2": "🇰🇲Comoros",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇦Gabon",
+        "equipo2": "Marruecos 🇲🇦",
+        "comodin": false
+      },
+      {
+        "equipo1": "Angola🇦🇴",
+        "equipo2": "🇸🇳Ghana",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇵🇹Portugal",
+        "equipo2": "🇲🇨Polonia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🏴󠁧󠁢󠁳󠁣󠁴󠁿Escocia",
+        "equipo2": "🇭🇷Croacia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇩🇰Dinamarca",
+        "equipo2": "🇪🇦España",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇨🇭Suiza",
+        "equipo2": "🇷🇸Serbia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇷🇴Rumania",
+        "equipo2": "🇬🇺Kosovo",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇱🇺Luxemburgo",
+        "equipo2": "🇧🇬Bulgaria",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇬Irlanda del Norte",
+        "equipo2": "🇧🇾Bielorrusia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇲San Marino",
+        "equipo2": "🇬🇮Gibraltar",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saint Lucia🇱🇨",
+        "equipo2": "🇧🇴Granada",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇦Islas Caimán",
+        "equipo2": "🇫🇷Guadalupe",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇫Saint Martin",
+        "equipo2": "🇨🇼Curazao",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇸🇽 Sint Maarten",
+        "equipo2": "🇭🇹Haiti",
+        "comodin": false
+      },
+      {
+        "equipo1": "Barbadoos🇧🇧",
+        "equipo2": "🇬🇾Guyana",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇸🇷Surinam",
+        "equipo2": "🇨🇦Canada",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇺🇾Uruguay",
+        "equipo2": "🇨🇴Colombia",
+        "comodin": true
+      },
+      {
+        "equipo1": "AD Guanacasteca 🟢🔴",
+        "equipo2": "Puntarenas FC🟠⚪",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇵🇪 Peru",
+        "equipo2": "🇨🇱 Chile",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇭🇳 Honduras",
+        "equipo2": "🇲🇽Mexico",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇵🇷Puerto Rico",
+        "equipo2": "🇦🇼Aruba",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada 36",
+    [
+      {
+        "equipo1": "Azerbaiyán 🇦🇿",
+        "equipo2": "🇪🇪 Estonia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇪🇹Etiopía",
+        "equipo2": "🇹🇿Tanzania",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇪Georgia",
+        "equipo2": "🇺🇦Ucrania",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇲🇪 Montenegro",
+        "equipo2": "🇮🇸Islandia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇷Turquía",
+        "equipo2": "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Gales",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇩Andorra",
+        "equipo2": "🇲🇩Moldavia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇬🇳Guinea",
+        "equipo2": "🇦🇼 DR congo",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇩🇪Alemania",
+        "equipo2": "🇧🇦 Bosnia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Países bajos 🇳🇱",
+        "equipo2": "🇭🇺 Hungría",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇦🇱Albania",
+        "equipo2": "🇨🇿Chequia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇪Suecia",
+        "equipo2": "🇵🇭Eslovaquia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇲Bermudas",
+        "equipo2": "🇦🇬Antigua Bermuda",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇩🇲Dominica",
+        "equipo2": "🇩🇴República Dominicana",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fiyi 🇫🇯",
+        "equipo2": "Nueva caledonia🇫🇷",
+        "comodin": false
+      },
+      {
+        "equipo1": "PAPUA NUEVA guinea🇵🇬",
+        "equipo2": "Islas salomon🇸🇧",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇭 Tailandia",
+        "equipo2": "🇱🇦 Laos",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇱🇻Letonia",
+        "equipo2": "🇦🇲Armenia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇲🇰Macedonia del norte",
+        "equipo2": "🇫🇴Islas feroe",
+        "comodin": true
+      },
+      {
+        "equipo1": "Argelia🇩🇿",
+        "equipo2": "🇱🇷Liberia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Togo🇹🇬",
+        "equipo2": "🇬🇶Guinea ecuatorial",
+        "comodin": false
+      },
+      {
+        "equipo1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra",
+        "equipo2": "🇮🇪Irlanda",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇫🇮FIRLANDIA",
+        "equipo2": "🇬🇷Grecia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇦🇹Austria",
+        "equipo2": "🇸🇮Eslovenia",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇧🇻Noruega",
+        "equipo2": "🇰🇿Kazajistán",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇮🇱 Israel",
+        "equipo2": "🇧🇪Belgica",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇮🇹 Italia",
+        "equipo2": "🇨🇵Francia",
+        "comodin": true
+      },
+      {
+        "equipo1": "🇻🇨San Vicente granadinas",
+        "equipo2": "🇧🇶BONAIRE",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇸🇻El salvador",
+        "equipo2": "🇸🇭Monserrat",
+        "comodin": false
+      },
+      {
+        "equipo1": "🇹🇭Tahiti",
+        "equipo2": "🇻🇺Vanuatu",
+        "comodin": true
+      }
+    ]
   ]
 ]
