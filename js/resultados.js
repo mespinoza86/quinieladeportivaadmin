@@ -209,3 +209,4 @@ function updateScoreInputs(resultados) {
     loadJugadores();
     loadJornadas();
 });
+
