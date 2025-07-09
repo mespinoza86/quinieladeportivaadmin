@@ -608,16 +608,16 @@
       },
       {
         "equipo1": "Charlolett FC",
-        "marcador1": "",
+        "marcador1": "2",
         "equipo2": "Orlando",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": false
       },
       {
         "equipo1": "DC United",
-        "marcador1": "",
+        "marcador1": "0",
         "equipo2": "Atlanta United",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": false
       },
       {
@@ -629,37 +629,37 @@
       },
       {
         "equipo1": "Nashville SC 🟡⚫",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Philadelfia 🔵⚫",
-        "marcador2": "",
+        "marcador2": "0",
         "comodin": true
       },
       {
         "equipo1": "Salt Lake",
-        "marcador1": "",
+        "marcador1": "3",
         "equipo2": "St Louis City",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": false
       },
       {
         "equipo1": "San Jose",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "NY Red Bulls",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "Seattle Sounders",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "Columbus",
-        "marcador2": "",
+        "marcador2": "1",
         "comodin": false
       },
       {
         "equipo1": "🇺🇸USA",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "🇲🇽Mexico",
-        "marcador2": "",
+        "marcador2": "2",
         "comodin": true
       }
     ]
