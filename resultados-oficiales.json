@@ -663,5 +663,73 @@
         "comodin": true
       }
     ]
+  ],
+  [
+    "Jornada8",
+    [
+      {
+        "equipo1": "Fluminense",
+        "marcador1": "0",
+        "equipo2": "Chelsea 🔵",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Estudiantes",
+        "marcador1": "0",
+        "equipo2": "Velez Sarsfield",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Minnesota",
+        "marcador1": "3",
+        "equipo2": "Chicago🩵❤️",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Jose",
+        "marcador1": "1",
+        "equipo2": "Austin FC",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "PSG",
+        "marcador1": "4",
+        "equipo2": "Real Madrid",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Philadelphia",
+        "marcador1": "",
+        "equipo2": "NY Red Bulls",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "New England",
+        "marcador1": "1",
+        "equipo2": "Inter Miami",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nashville SC",
+        "marcador1": "5",
+        "equipo2": "DC United",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "LAFC",
+        "marcador1": "3",
+        "equipo2": "Colorado Rapids",
+        "marcador2": "0",
+        "comodin": true
+      }
+    ]
   ]
 ]

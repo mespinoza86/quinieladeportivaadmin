@@ -516,7 +516,7 @@
         "equipo1": "Philadelphia",
         "equipo2": "NY Red Bulls",
         "comodin": false
-      },      
+      },
       {
         "equipo1": "New England",
         "equipo2": "Inter Miami",
@@ -526,11 +526,121 @@
         "equipo1": "Nashville SC",
         "equipo2": "DC United",
         "comodin": false
-      },    
+      },
       {
         "equipo1": "LAFC",
         "equipo2": "Colorado Rapids",
         "comodin": true
+      }
+    ]
+  ],
+  [
+    "Jornada9",
+    [
+      {
+        "equipo1": "Talleres",
+        "equipo2": "San Lorenzo",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puebla",
+        "equipo2": "Atlas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Juarez 🟢⚫",
+        "equipo2": "America 🟡🔵",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tijuana",
+        "equipo2": "Queretaro",
+        "comodin": false
+      },
+      {
+        "equipo1": "Rosario Central",
+        "equipo2": "Godoy Cruz",
+        "comodin": false
+      },
+      {
+        "equipo1": "Flamengo⚫🔴",
+        "equipo2": "Sao Paulo",
+        "comodin": true
+      },
+      {
+        "equipo1": "Internacional",
+        "equipo2": "Vitoria",
+        "comodin": false
+      },
+      {
+        "equipo1": "Huracan",
+        "equipo2": "Belgrano",
+        "comodin": false
+      },
+      {
+        "equipo1": "Vasco de Gama ⚪⚫",
+        "equipo2": "Botafogo RJ",
+        "comodin": false
+      },
+      {
+        "equipo1": "Charlolett FC",
+        "equipo2": "NYCFC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "Columbus",
+        "comodin": true
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "NASHVILLE 🟡⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Philadelfia 🔵⚫",
+        "equipo2": "NY Red Bulls",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bahia",
+        "equipo2": "Atlético MG ⚫⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Chelsea 🔵",
+        "equipo2": "PSG",
+        "comodin": true
+      },
+      {
+        "equipo1": "Independiente Rivadavia",
+        "equipo2": "Newell's Old Boys",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Juniors",
+        "equipo2": "Boca Juniors🟡🔵",
+        "comodin": true
+      },
+      {
+        "equipo1": "Pachuca",
+        "equipo2": "Monterrey 🔵⚪",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cruzeiro",
+        "equipo2": "Gremio",
+        "comodin": true
+      },
+      {
+        "equipo1": "River Plate🔴⚪",
+        "equipo2": "Club Atlético Platense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Leon🟢⚪",
+        "equipo2": "San Luis 🔴⚪",
+        "comodin": false
       }
     ]
   ]
