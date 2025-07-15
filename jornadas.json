@@ -653,6 +653,11 @@
         "comodin": false
       },
       {
+        "equipo1": "Bolivar",
+        "equipo2": "Palestino",
+        "comodin": false
+      },	  
+      {
         "equipo1": "Ceara",
         "equipo2": "Corinthians",
         "comodin": true
@@ -660,26 +665,6 @@
       {
         "equipo1": "Santos FC",
         "equipo2": "Flamengo⚫🔴",
-        "comodin": false
-      },
-      {
-        "equipo1": "Botafogo RJ",
-        "equipo2": "Vitoria",
-        "comodin": false
-      },
-      {
-        "equipo1": "Bolivar",
-        "equipo2": "Palestino",
-        "comodin": false
-      },
-      {
-        "equipo1": "Alianza Lima",
-        "equipo2": "Gremio",
-        "comodin": false
-      },
-      {
-        "equipo1": "San Antonio Bulo",
-        "equipo2": "Once Caldas",
         "comodin": false
       },
       {
@@ -706,6 +691,21 @@
         "equipo1": "Orlando",
         "equipo2": "NYCFC",
         "comodin": true
+      },	  
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Vitoria",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza Lima",
+        "equipo2": "Gremio",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Antonio Bulo",
+        "equipo2": "Once Caldas",
+        "comodin": false
       },
       {
         "equipo1": "Minnesota",
@@ -717,6 +717,11 @@
         "equipo2": "Columbus Crew",
         "comodin": true
       },
+      {
+        "equipo1": "America 🟡🔵",
+        "equipo2": "Tijuana",
+        "comodin": false
+      },	  
       {
         "equipo1": "Seattle Sounders",
         "equipo2": "Colorado Rapids",
@@ -730,11 +735,6 @@
       {
         "equipo1": "San Jose Earthquakes",
         "equipo2": "FC Dallas",
-        "comodin": false
-      },
-      {
-        "equipo1": "America 🟡🔵",
-        "equipo2": "Tijuana",
         "comodin": false
       },
       {
