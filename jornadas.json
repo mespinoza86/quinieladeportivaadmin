@@ -643,5 +643,120 @@
         "comodin": true
       }
     ]
+  ],
+  [
+    "Jornada10",
+    [
+      {
+        "equipo1": "Palmeiras",
+        "equipo2": "Mirassol",
+        "comodin": false
+      },
+      {
+        "equipo1": "Ceara",
+        "equipo2": "Corinthians",
+        "comodin": true
+      },
+      {
+        "equipo1": "Santos FC",
+        "equipo2": "Flamengo⚫🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Vitoria",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bolivar",
+        "equipo2": "Palestino",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza Lima",
+        "equipo2": "Gremio",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Antonio Bulo",
+        "equipo2": "Once Caldas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlanta United",
+        "equipo2": "Chicago🩵❤️",
+        "comodin": false
+      },
+      {
+        "equipo1": "Charlolett FC",
+        "equipo2": "DC United",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "Inter Miami",
+        "comodin": true
+      },
+      {
+        "equipo1": "NY Red Bulls",
+        "equipo2": "New England",
+        "comodin": false
+      },
+      {
+        "equipo1": "Orlando",
+        "equipo2": "NYCFC",
+        "comodin": true
+      },
+      {
+        "equipo1": "Minnesota",
+        "equipo2": "Los Angeles FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nashville SC 🟡⚫",
+        "equipo2": "Columbus Crew",
+        "comodin": true
+      },
+      {
+        "equipo1": "Seattle Sounders",
+        "equipo2": "Colorado Rapids",
+        "comodin": false
+      },
+      {
+        "equipo1": "Portland Timbers",
+        "equipo2": "Real Salt Lake",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Jose Earthquakes",
+        "equipo2": "FC Dallas",
+        "comodin": false
+      },
+      {
+        "equipo1": "America 🟡🔵",
+        "equipo2": "Tijuana",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos",
+        "equipo2": "Toluca",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "equipo2": "Cruzeiro",
+        "comodin": false
+      },
+      {
+        "equipo1": "Universidad de Chile",
+        "equipo2": "Guarani",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bucaramanga",
+        "equipo2": "Atlético MG",
+        "comodin": false
+      }
+    ]
   ]
 ]
