@@ -1,1 +1,62 @@
-[]
+[
+  [
+    "Jornada1",
+    [
+      {
+        "equipo1": "CD Victoria",
+        "equipo2": "CD Marathon",
+        "comodin": false
+      },
+      {
+        "equipo1": "Guadalupe",
+        "equipo2": "Herediano 🟡🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Columbus",
+        "equipo2": "Orlando",
+        "comodin": false
+      },
+      {
+        "equipo1": "A.D. Liberia ⚫️🟡",
+        "equipo2": "Cartago ⚪🔵",
+        "comodin": true
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "equipo2": "San Carlos ❤️💙",
+        "comodin": false
+      },
+      {
+        "equipo1": "Perez Zeledon 🔵⚪",
+        "equipo2": "Saprissa 🟣⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "Tigres🔵🟡",
+        "comodin": true
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "equipo2": "Alajuelense❤️🖤",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "equipo2": "Alajuelense❤️🖤",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "equipo2": "Fluminense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "Cincinnati 🔵🟠",
+        "comodin": false
+      }
+    ]
+  ]
+]
