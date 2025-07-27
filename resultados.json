@@ -1631,5 +1631,76 @@
         "marcador2": "0"
       }
     ]
+  ],
+  [
+    "Roy Mata_Jornada1",
+    [
+      {
+        "equipo1": "CD Victoria",
+        "marcador1": "1",
+        "equipo2": "CD Marathon",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Guadalupe",
+        "marcador1": "0",
+        "equipo2": "Herediano 🟡🔴",
+        "marcador2": "3"
+      },
+      {
+        "equipo1": "Columbus",
+        "marcador1": "2",
+        "equipo2": "Orlando",
+        "marcador2": "0"
+      },
+      {
+        "equipo1": "A.D. Liberia ⚫️🟡",
+        "marcador1": "1",
+        "equipo2": "Cartago ⚪🔵",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "marcador1": "1",
+        "equipo2": "San Carlos ❤️💙",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Perez Zeledon 🔵⚪",
+        "marcador1": "0",
+        "equipo2": "Saprissa 🟣⚪",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Toluca",
+        "marcador1": "1",
+        "equipo2": "Tigres🔵🟡",
+        "marcador2": "1"
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "marcador1": "0",
+        "equipo2": "Alajuelense❤️🖤",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "marcador1": "0",
+        "equipo2": "Alajuelense❤️🖤",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "1",
+        "equipo2": "Fluminense",
+        "marcador2": "2"
+      },
+      {
+        "equipo1": "Inter Miami",
+        "marcador1": "1",
+        "equipo2": "Cincinnati 🔵🟠",
+        "marcador2": "2"
+      }
+    ]
   ]
 ]
