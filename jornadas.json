@@ -53,5 +53,90 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada2",
+    [
+      {
+        "equipo1": "Toluca",
+        "equipo2": "Columbus",
+        "comodin": false
+      },
+      {
+        "equipo1": "Verdes fc",
+        "equipo2": "FC Motagua",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres🔵🟡",
+        "equipo2": "Houston",
+        "comodin": false
+      },
+      {
+        "equipo1": "Managua FC",
+        "equipo2": "Antigua Guatemala",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "equipo2": "Cartago ⚪🔵",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "Atlas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Necaxa",
+        "equipo2": "Atlanta United",
+        "comodin": false
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "equipo2": "Orlando",
+        "comodin": false
+      },
+      {
+        "equipo1": "America",
+        "equipo2": "Salt lake",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "equipo2": "Real Espana",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "equipo2": "Real Esteli FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Porlant",
+        "equipo2": "San Luis 🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey 🔵⚪",
+        "equipo2": "Cincinnati 🔵🟠",
+        "comodin": true
+      },
+      {
+        "equipo1": "Chivas",
+        "equipo2": "NY Red Bulls",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alajuelense❤️🖤",
+        "equipo2": "CD Plaza Amador",
+        "comodin": false
+      },
+      {
+        "equipo1": "Diriangen FC",
+        "equipo2": "Csd Municipal",
+        "comodin": true
+      }
+    ]
   ]
 ]
