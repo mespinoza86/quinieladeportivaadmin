@@ -73,5 +73,122 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada2",
+    [
+      {
+        "equipo1": "Toluca",
+        "marcador1": "2",
+        "equipo2": "Columbus",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Verdes fc",
+        "marcador1": "1",
+        "equipo2": "FC Motagua",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres🔵🟡",
+        "marcador1": "4",
+        "equipo2": "Houston",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Managua FC",
+        "marcador1": "1",
+        "equipo2": "Antigua Guatemala",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "marcador1": "2",
+        "equipo2": "Cartago ⚪🔵",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "marcador1": "",
+        "equipo2": "Atlas",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Necaxa",
+        "marcador1": "",
+        "equipo2": "Atlanta United",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "marcador1": "",
+        "equipo2": "Orlando",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "America",
+        "marcador1": "",
+        "equipo2": "Salt lake",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "marcador1": "",
+        "equipo2": "Real Espana",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "marcador1": "",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Porlant",
+        "marcador1": "",
+        "equipo2": "San Luis 🔴⚪",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey 🔵⚪",
+        "marcador1": "",
+        "equipo2": "Cincinnati 🔵🟠",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Chivas",
+        "marcador1": "",
+        "equipo2": "NY Red Bulls",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alajuelense❤️🖤",
+        "marcador1": "",
+        "equipo2": "CD Plaza Amador",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Diriangen FC",
+        "marcador1": "",
+        "equipo2": "Csd Municipal",
+        "marcador2": "",
+        "comodin": true
+      }
+    ]
   ]
 ]
