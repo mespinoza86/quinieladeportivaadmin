@@ -138,5 +138,95 @@
         "comodin": true
       }
     ]
+  ],
+  [
+    "Jornada3",
+    [
+      {
+        "equipo1": "NYCFC",
+        "equipo2": "Leon🟢⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Columbus",
+        "equipo2": "Puebla",
+        "comodin": false
+      },
+      {
+        "equipo1": "Houston",
+        "equipo2": "Mazatlan FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "Montreal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "equipo2": "San Carlos ❤️💙",
+        "comodin": false
+      },
+      {
+        "equipo1": "LAFC",
+        "equipo2": "Pachuca",
+        "comodin": true
+      },
+      {
+        "equipo1": "Orlando",
+        "equipo2": "Atlas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "Necaxa",
+        "comodin": false
+      },
+      {
+        "equipo1": "America",
+        "equipo2": "Minnesota United",
+        "comodin": false
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "equipo2": "Atlanta United",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Salt Lake",
+        "equipo2": "San Luis 🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Portland Timbers",
+        "equipo2": "Queretaro",
+        "comodin": false
+      },
+      {
+        "equipo1": "Chivas",
+        "equipo2": "Charlotte FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey 🔵⚪",
+        "equipo2": "NY Red Bulls",
+        "comodin": false
+      },
+      {
+        "equipo1": "Colorado",
+        "equipo2": "Tijuana",
+        "comodin": true
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "equipo2": "Cruz Azul",
+        "comodin": true
+      },
+      {
+        "equipo1": "Seattle Sounders",
+        "equipo2": "Santos",
+        "comodin": false
+      }
+    ]
   ]
 ]
