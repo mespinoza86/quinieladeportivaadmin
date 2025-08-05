@@ -248,5 +248,80 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada4",
+    [
+      {
+        "equipo1": "Columbus",
+        "equipo2": "Leon🟢⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "NYCFC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Verdes FC",
+        "equipo2": "Saprissa 🟣⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Antigua Guatemala",
+        "equipo2": "ALIANZA FC⚪🔵",
+        "comodin": true
+      },
+      {
+        "equipo1": "FC Motagua",
+        "equipo2": "Independiente de la Chorrea",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres🔵🟡",
+        "equipo2": "LAFC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Orlando",
+        "equipo2": "Necaxa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "UNAM🔵⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Diriangen FC",
+        "equipo2": "Herediano 🟡🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Seattle Sounders",
+        "equipo2": "Tijuana",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "Chivas",
+        "comodin": true
+      },
+      {
+        "equipo1": "NY Red Bulls",
+        "equipo2": "Juarez 🟢⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Managua FC",
+        "equipo2": "Alajuelense❤️🖤",
+        "comodin": false
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "equipo2": "Santos",
+        "comodin": false
+      }
+    ]
   ]
 ]
