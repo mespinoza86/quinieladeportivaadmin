@@ -323,5 +323,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada5",
+    [
+      {
+        "equipo1": "Guadalupe",
+        "equipo2": "Puntarenas FC🟠⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fortaleza",
+        "equipo2": "Botafogo RJ",
+        "comodin": false
+      },
+      {
+        "equipo1": "Bahia",
+        "equipo2": "Fluminense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Austin FC",
+        "equipo2": "Houston",
+        "comodin": false
+      },
+      {
+        "equipo1": "Chicago🩵❤️",
+        "equipo2": "LAFC",
+        "comodin": true
+      },
+      {
+        "equipo1": "San Carlos ❤️💙",
+        "equipo2": "Liberia ⚫🟡",
+        "comodin": false
+      },
+      {
+        "equipo1": "Perez Zeledon 🔵⚪",
+        "equipo2": "Sporting FC ⚪⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Mazatlan FC",
+        "equipo2": "Tijuana",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cartago ⚪🔵",
+        "equipo2": "Saprissa 🟣⚪",
+        "comodin": true
+      },
+      {
+        "equipo1": "Vasco de Gama ⚪⚫",
+        "equipo2": "Atlético MG ⚫⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "Charlotte FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Minnesota United",
+        "equipo2": "Colorado Rapids",
+        "comodin": false
+      },
+      {
+        "equipo1": "NY Red Bulls",
+        "equipo2": "Real Salt Lake",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Municipal",
+        "equipo2": "Comunicaciones FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alajuelense❤️🖤",
+        "equipo2": "Herediano 🟡🔴",
+        "comodin": true
+      },
+      {
+        "equipo1": "UNAM🔵⚪",
+        "equipo2": "Necaxa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Juniors",
+        "equipo2": "Union",
+        "comodin": false
+      },
+      {
+        "equipo1": "Orlando",
+        "equipo2": "Inter Miami",
+        "comodin": true
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "equipo2": "Seattle Sounders",
+        "comodin": false
+      },
+      {
+        "equipo1": "Santos",
+        "equipo2": "Chivas",
+        "comodin": false
+      }
+    ]
   ]
 ]

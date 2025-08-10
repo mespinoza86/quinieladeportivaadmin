@@ -342,5 +342,108 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada4",
+    [
+      {
+        "equipo1": "Columbus",
+        "marcador1": "1",
+        "equipo2": "Leon🟢⚪",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "marcador1": "2",
+        "equipo2": "NYCFC",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Verdes FC",
+        "marcador1": "1",
+        "equipo2": "Saprissa 🟣⚪",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Antigua Guatemala",
+        "marcador1": "0",
+        "equipo2": "ALIANZA FC⚪🔵",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "FC Motagua",
+        "marcador1": "2",
+        "equipo2": "Independiente de la Chorrea",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres🔵🟡",
+        "marcador1": "1",
+        "equipo2": "LAFC",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Orlando",
+        "marcador1": "5",
+        "equipo2": "Necaxa",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "marcador1": "3",
+        "equipo2": "UNAM🔵⚪",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Diriangen FC",
+        "marcador1": "4",
+        "equipo2": "Herediano 🟡🔴",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "Seattle Sounders",
+        "marcador1": "2",
+        "equipo2": "Tijuana",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "marcador1": "1",
+        "equipo2": "Chivas",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "NY Red Bulls",
+        "marcador1": "1",
+        "equipo2": "Juarez 🟢⚫",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Managua FC",
+        "marcador1": "1",
+        "equipo2": "Alajuelense❤️🖤",
+        "marcador2": "2",
+        "comodin": false
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "marcador1": "4",
+        "equipo2": "Santos",
+        "marcador2": "0",
+        "comodin": false
+      }
+    ]
   ]
 ]
