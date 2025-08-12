@@ -428,5 +428,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada6",
+    [
+      {
+        "equipo1": "Fortaleza",
+        "equipo2": "Velez Sarsfield",
+        "comodin": false
+      },
+      {
+        "equipo1": "Peñarol",
+        "equipo2": "Racing Club",
+        "comodin": true
+      },
+      {
+        "equipo1": "Antigua Guatemala🟢⚪",
+        "equipo2": "CD Plaza Amador",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Aguila",
+        "equipo2": "Hercules",
+        "comodin": false
+      },
+      {
+        "equipo1": "PSG🔵🔴",
+        "equipo2": "Tottenham",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cerro Porteno",
+        "equipo2": "Estudiantes",
+        "comodin": false
+      },
+      {
+        "equipo1": "Philadelphia 🔵⚫",
+        "equipo2": "NY Red Bulls",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting San Miguelito",
+        "equipo2": "Diriangen FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Flamengo⚫🔴",
+        "equipo2": "Internacional",
+        "comodin": false
+      },
+      {
+        "equipo1": "Universidad de Chile",
+        "equipo2": "Independiente",
+        "comodin": false
+      },
+      {
+        "equipo1": "ALIANZA FC⚪🔵",
+        "equipo2": "Managua FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Municipal",
+        "equipo2": "Real Espana",
+        "comodin": true
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "LDU de Quito",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlético MG ⚫⚪",
+        "equipo2": "Godoy Cruz",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente de la Chorrera",
+        "equipo2": "Verdes FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Libertad",
+        "equipo2": "River Plate🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Universitario de Deportes",
+        "equipo2": "Palmeiras",
+        "comodin": false
+      },
+      {
+        "equipo1": "Central Córdoba Santiago",
+        "equipo2": "Lanus",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "equipo2": "Cartago ⚪🔵",
+        "comodin": true
+      },
+      {
+        "equipo1": "Club Xelaju",
+        "equipo2": "Real Esteli FC",
+        "comodin": false
+      }
+    ]
   ]
 ]
