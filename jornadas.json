@@ -533,5 +533,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada7",
+    [
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "equipo2": "San Carlos ❤️💙",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "equipo2": "CD Arabe Unido",
+        "comodin": true
+      },
+      {
+        "equipo1": "Necaxa",
+        "equipo2": "Leon🟢⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "equipo2": "Fortaleza",
+        "comodin": false
+      },
+      {
+        "equipo1": "Velez Sarsfield",
+        "equipo2": "Independiente",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "equipo2": "Alajuelense❤️🖤",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "equipo2": "Bahia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres🔵🟡",
+        "equipo2": "America",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "equipo2": "Santos",
+        "comodin": true
+      },
+      {
+        "equipo1": "Real Espana",
+        "equipo2": "CD Olimpia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "equipo2": "Perez Zeledon 🔵⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "UNAM🔵⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester United",
+        "equipo2": "Arsenal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlético MG ⚫⚪",
+        "equipo2": "Gremio",
+        "comodin": false
+      },
+      {
+        "equipo1": "NYCFC",
+        "equipo2": "Nashville SC 🟡⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Liberia ⚫🟡",
+        "equipo2": "Saprissa 🟣⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Internacional",
+        "equipo2": "Flamengo⚫🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
+        "equipo2": "Palmeiras",
+        "comodin": true
+      },
+      {
+        "equipo1": "Guadalupe",
+        "equipo2": "Cartago ⚪🔵",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "equipo2": "CD Marathon",
+        "comodin": false
+      }
+    ]
   ]
 ]
