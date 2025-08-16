@@ -680,57 +680,202 @@
       },
       {
         "equipo1": "Botafogo RJ",
-        "marcador1": "",
+        "marcador1": "1",
         "equipo2": "LDU de Quito",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlético MG ⚫⚪",
+        "marcador1": "2",
+        "equipo2": "Godoy Cruz",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente de la Chorrera",
+        "marcador1": "3",
+        "equipo2": "Verdes FC",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Libertad",
+        "marcador1": "0",
+        "equipo2": "River Plate🔴⚪",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Universitario de Deportes",
+        "marcador1": "0",
+        "equipo2": "Palmeiras",
+        "marcador2": "4",
+        "comodin": false
+      },
+      {
+        "equipo1": "Central Córdoba Santiago",
+        "marcador1": "1",
+        "equipo2": "Lanus",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "FC Motagua",
+        "marcador1": "0",
+        "equipo2": "Cartago ⚪🔵",
+        "marcador2": "0",
+        "comodin": true
+      },
+      {
+        "equipo1": "Club Xelaju",
+        "marcador1": "4",
+        "equipo2": "Real Esteli FC",
+        "marcador2": "1",
+        "comodin": false
+      }
+    ]
+  ],
+  [
+    "Jornada7",
+    [
+      {
+        "equipo1": "Sporting FC ⚪⚫",
+        "marcador1": "1",
+        "equipo2": "San Carlos ❤️💙",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tauro FC",
+        "marcador1": "1",
+        "equipo2": "CD Arabe Unido",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Necaxa",
+        "marcador1": "",
+        "equipo2": "Leon🟢⚪",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Fluminense",
+        "marcador1": "",
+        "equipo2": "Fortaleza",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Velez Sarsfield",
+        "marcador1": "",
+        "equipo2": "Independiente",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "marcador1": "",
+        "equipo2": "Alajuelense❤️🖤",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Corinthians",
+        "marcador1": "",
+        "equipo2": "Bahia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tigres🔵🟡",
+        "marcador1": "",
+        "equipo2": "America",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "marcador1": "",
+        "equipo2": "Santos",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Real Espana",
+        "marcador1": "",
+        "equipo2": "CD Olimpia",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "marcador1": "",
+        "equipo2": "Perez Zeledon 🔵⚪",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "marcador1": "",
+        "equipo2": "UNAM🔵⚪",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester United",
+        "marcador1": "",
+        "equipo2": "Arsenal",
         "marcador2": "",
         "comodin": false
       },
       {
         "equipo1": "Atlético MG ⚫⚪",
         "marcador1": "",
-        "equipo2": "Godoy Cruz",
+        "equipo2": "Gremio",
         "marcador2": "",
         "comodin": false
       },
       {
-        "equipo1": "Independiente de la Chorrera",
+        "equipo1": "NYCFC",
         "marcador1": "",
-        "equipo2": "Verdes FC",
+        "equipo2": "Nashville SC 🟡⚫",
         "marcador2": "",
         "comodin": false
       },
       {
-        "equipo1": "Libertad",
+        "equipo1": "Liberia ⚫🟡",
         "marcador1": "",
-        "equipo2": "River Plate🔴⚪",
+        "equipo2": "Saprissa 🟣⚪",
         "marcador2": "",
         "comodin": false
       },
       {
-        "equipo1": "Universitario de Deportes",
+        "equipo1": "Internacional",
+        "marcador1": "",
+        "equipo2": "Flamengo⚫🔴",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Botafogo RJ",
         "marcador1": "",
         "equipo2": "Palmeiras",
         "marcador2": "",
-        "comodin": false
+        "comodin": true
       },
       {
-        "equipo1": "Central Córdoba Santiago",
+        "equipo1": "Guadalupe",
         "marcador1": "",
-        "equipo2": "Lanus",
+        "equipo2": "Cartago ⚪🔵",
         "marcador2": "",
         "comodin": false
       },
       {
         "equipo1": "FC Motagua",
         "marcador1": "",
-        "equipo2": "Cartago ⚪🔵",
-        "marcador2": "",
-        "comodin": true
-      },
-      {
-        "equipo1": "Club Xelaju",
-        "marcador1": "",
-        "equipo2": "Real Esteli FC",
+        "equipo2": "CD Marathon",
         "marcador2": "",
         "comodin": false
       }
