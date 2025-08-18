@@ -638,5 +638,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada8",
+    [
+      {
+        "equipo1": "Velez Sarsfield",
+        "equipo2": "Fortaleza",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Plaza Amador",
+        "equipo2": "Managua FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Racing Club",
+        "equipo2": "Peñarol",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "equipo2": "Atlético Nacional",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Aguila",
+        "equipo2": "CD Olimpia",
+        "comodin": false
+      },
+      {
+        "equipo1": "Estudiantes",
+        "equipo2": "Cerro Porteno",
+        "comodin": true
+      },
+      {
+        "equipo1": "Independiente de la Chorrera",
+        "equipo2": "Saprissa 🟣⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Inter Miami",
+        "equipo2": "Tigres🔵🟡",
+        "comodin": true
+      },
+      {
+        "equipo1": "Internacional",
+        "equipo2": "Flamengo⚫🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "Toluca",
+        "equipo2": "Orlando",
+        "comodin": true
+      },
+      {
+        "equipo1": "Real Espana",
+        "equipo2": "Diriangen FC",
+        "comodin": true
+      },
+      {
+        "equipo1": "Cartago ⚪🔵",
+        "equipo2": "Verdes FC",
+        "comodin": false
+      },
+      {
+        "equipo1": "Seattle Sounders",
+        "equipo2": "Puebla",
+        "comodin": false
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "equipo2": "Pachuca",
+        "comodin": false
+      },
+      {
+        "equipo1": "LDU de Quito",
+        "equipo2": "Botafogo RJ",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sporting San Miguelito",
+        "equipo2": "Herediano 🟡🔴",
+        "comodin": false
+      },
+      {
+        "equipo1": "River Plate🔴⚪",
+        "equipo2": "Libertad",
+        "comodin": false
+      },
+      {
+        "equipo1": "Lanus",
+        "equipo2": "Central Córdoba de Santiago",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza FC ⚪🔵",
+        "equipo2": "Alajuelense❤️🖤",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "equipo2": "Hercules",
+        "comodin": false
+      }
+    ]
   ]
 ]
