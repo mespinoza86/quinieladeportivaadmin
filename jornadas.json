@@ -743,5 +743,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada9",
+    [
+      {
+        "equipo1": "Juarez 🟢⚫",
+        "equipo2": "Santos",
+        "comodin": true
+      },
+      {
+        "equipo1": "Perez Zeledon 🔵⚪",
+        "equipo2": "Guadalupe",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tijuana",
+        "equipo2": "Chivas",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester City",
+        "equipo2": "Tottenham",
+        "comodin": true
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "equipo2": "Liberia ⚫🟡",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "equipo2": "NYCFC",
+        "comodin": true
+      },
+      {
+        "equipo1": "Philadelphia 🔵⚫",
+        "equipo2": "Chicago🩵❤️",
+        "comodin": false
+      },
+      {
+        "equipo1": "Houston",
+        "equipo2": "San Jose",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nashville SC 🟡⚫",
+        "equipo2": "Orlando",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey 🔵⚪",
+        "equipo2": "Necaxa",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "equipo2": "Sporting FC ⚪⚫",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "equipo2": "Toluca",
+        "comodin": true
+      },
+      {
+        "equipo1": "Vasco de Gama ⚪⚫",
+        "equipo2": "Corinthians",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Juniors",
+        "equipo2": "Racing Club",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlanta United",
+        "equipo2": "Toronto",
+        "comodin": false
+      },
+      {
+        "equipo1": "Charlotte FC",
+        "equipo2": "NY Red Bulls",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza FC ⚪🔵",
+        "equipo2": "CD FAS",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente",
+        "equipo2": "Club Atletico Platense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "equipo2": "Atlético MG ⚫⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos ❤️💙",
+        "equipo2": "Herediano 🟡🔴",
+        "comodin": false
+      }
+    ]
   ]
 ]
