@@ -1025,5 +1025,150 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada9",
+    [
+      {
+        "equipo1": "Juarez 🟢⚫",
+        "marcador1": "2",
+        "equipo2": "Santos",
+        "marcador2": "1",
+        "comodin": true
+      },
+      {
+        "equipo1": "Perez Zeledon 🔵⚪",
+        "marcador1": "4",
+        "equipo2": "Guadalupe",
+        "marcador2": "0",
+        "comodin": false
+      },
+      {
+        "equipo1": "Tijuana",
+        "marcador1": "3",
+        "equipo2": "Chivas",
+        "marcador2": "1",
+        "comodin": false
+      },
+      {
+        "equipo1": "Manchester City",
+        "marcador1": "0",
+        "equipo2": "Tottenham",
+        "marcador2": "2",
+        "comodin": true
+      },
+      {
+        "equipo1": "Puntarenas FC🟠⚪",
+        "marcador1": "",
+        "equipo2": "Liberia ⚫🟡",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cincinnati 🔵🟠",
+        "marcador1": "",
+        "equipo2": "NYCFC",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Philadelphia 🔵⚫",
+        "marcador1": "",
+        "equipo2": "Chicago🩵❤️",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Houston",
+        "marcador1": "",
+        "equipo2": "San Jose",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Nashville SC 🟡⚫",
+        "marcador1": "",
+        "equipo2": "Orlando",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Monterrey 🔵⚪",
+        "marcador1": "",
+        "equipo2": "Necaxa",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "marcador1": "",
+        "equipo2": "Sporting FC ⚪⚫",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cruz Azul",
+        "marcador1": "",
+        "equipo2": "Toluca",
+        "marcador2": "",
+        "comodin": true
+      },
+      {
+        "equipo1": "Vasco de Gama ⚪⚫",
+        "marcador1": "",
+        "equipo2": "Corinthians",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Argentinos Juniors",
+        "marcador1": "",
+        "equipo2": "Racing Club",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlanta United",
+        "marcador1": "",
+        "equipo2": "Toronto",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Charlotte FC",
+        "marcador1": "",
+        "equipo2": "NY Red Bulls",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alianza FC ⚪🔵",
+        "marcador1": "",
+        "equipo2": "CD FAS",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Independiente",
+        "marcador1": "",
+        "equipo2": "Club Atletico Platense",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "Sao Paulo",
+        "marcador1": "",
+        "equipo2": "Atlético MG ⚫⚪",
+        "marcador2": "",
+        "comodin": false
+      },
+      {
+        "equipo1": "San Carlos ❤️💙",
+        "marcador1": "",
+        "equipo2": "Herediano 🟡🔴",
+        "marcador2": "",
+        "comodin": false
+      }
+    ]
   ]
 ]
