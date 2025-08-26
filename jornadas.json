@@ -848,5 +848,110 @@
         "comodin": false
       }
     ]
+  ],
+  [
+    "Jornada10",
+    [
+      {
+        "equipo1": "Cartago ⚪🔵",
+        "equipo2": "Independiente de la Chorrera",
+        "comodin": false
+      },
+      {
+        "equipo1": "Saprissa 🟣⚪",
+        "equipo2": "FC Motagua",
+        "comodin": true
+      },
+      {
+        "equipo1": "Benfica",
+        "equipo2": "Fenerbahce",
+        "comodin": true
+      },
+      {
+        "equipo1": "Club Brugge",
+        "equipo2": "Rangers",
+        "comodin": false
+      },
+      {
+        "equipo1": "Carmelita",
+        "equipo2": "Inter San Carlos",
+        "comodin": false
+      },
+      {
+        "equipo1": "Cariari",
+        "equipo2": "San Carlos ❤️💙",
+        "comodin": false
+      },
+      {
+        "equipo1": "Jicaral",
+        "equipo2": "AD Rosario",
+        "comodin": false
+      },
+      {
+        "equipo1": "Guadalupe",
+        "equipo2": "Aserri",
+        "comodin": false
+      },
+      {
+        "equipo1": "Atlético MG ⚫⚪",
+        "equipo2": "Cruzeiro",
+        "comodin": true
+      },
+      {
+        "equipo1": "CD Plaza Amador",
+        "equipo2": "Alianza FC ⚪🔵",
+        "comodin": false
+      },
+      {
+        "equipo1": "Alajuelense❤️🖤",
+        "equipo2": "Antigua Guatemala🟢⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Athletico Paranaense",
+        "equipo2": "Corinthians",
+        "comodin": false
+      },
+      {
+        "equipo1": "Vasco de Gama ⚪⚫",
+        "equipo2": "Botafogo RJ",
+        "comodin": false
+      },
+      {
+        "equipo1": "CD Olimpia",
+        "equipo2": "Club Xelaju",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Esteli FC",
+        "equipo2": "CD Aguila",
+        "comodin": false
+      },
+      {
+        "equipo1": "LA Galaxy",
+        "equipo2": "Seattle Sounders",
+        "comodin": true
+      },
+      {
+        "equipo1": "Bahia",
+        "equipo2": "Fluminense",
+        "comodin": false
+      },
+      {
+        "equipo1": "Union",
+        "equipo2": "River Plate🔴⚪",
+        "comodin": false
+      },
+      {
+        "equipo1": "Herediano 🟡🔴",
+        "equipo2": "CD Municipal",
+        "comodin": false
+      },
+      {
+        "equipo1": "Real Espana",
+        "equipo2": "Sporting San Miguelito",
+        "comodin": false
+      }
+    ]
   ]
 ]
